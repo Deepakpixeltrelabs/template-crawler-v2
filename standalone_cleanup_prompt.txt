@@ -1,0 +1,311 @@
+I am providing you with ONE MHTML file containing a SINGLE-PAGE Wix website.
+
+Your task is NOT to regenerate or redesign the website.
+
+Your task is to EXTRACT the existing website from the MHTML and convert it into a standalone reusable website by removing only the Wix-specific dependencies.
+
+========================
+PRIMARY OBJECTIVE
+========================
+
+MHTML
+↓
+Extract actual website
+↓
+Remove Wix dependencies
+↓
+Reuse existing HTML/CSS/assets wherever possible
+↓
+Standalone single-page website
+
+Do NOT create a new design from scratch.
+
+Do NOT unnecessarily rewrite or regenerate the existing website.
+
+The original visual design must remain as close as possible to the captured website.
+
+========================
+1. ANALYZE THE MHTML
+========================
+
+First inspect the complete MHTML file.
+
+Identify:
+
+- The actual website HTML
+- Website CSS
+- JavaScript required by the website
+- Images
+- SVGs
+- Fonts
+- Other assets
+- Wix viewer/wrapper code
+- Wix runtime code
+- Wix tracking/analytics code
+- Wix-specific resources
+
+IMPORTANT:
+
+The MHTML may contain Wix TEMPLATE VIEWER code around the actual website.
+
+Do NOT treat the Wix viewer/wrapper as the website itself.
+
+Find and extract the actual single-page website contained within the MHTML.
+
+========================
+2. REMOVE WIX DEPENDENCIES
+========================
+
+Remove Wix-specific dependencies such as:
+
+- Wix template viewer
+- Wix toolbar
+- Wix editor UI
+- Wix iframe
+- Wix runtime
+- Wix APIs
+- Wix tracking
+- Wix analytics
+- Wix recorder
+- Wix-specific metadata
+- Wix-specific viewer JavaScript
+- Wix-specific viewer CSS
+
+Remove dependencies/references to:
+
+- wix.com
+- wixstatic.com
+- static.wixstatic.com
+- parastorage.com
+- static.parastorage.com
+- manage.wix.com
+
+Do NOT simply delete random Wix code.
+
+Before removing anything, determine whether it belongs to the actual website or only to the Wix viewer/runtime.
+
+========================
+3. DO NOT REGENERATE THE DESIGN
+========================
+
+This is extremely important.
+
+DO NOT:
+
+- Redesign the website
+- Modernize the website
+- Change the layout
+- Change the section structure
+- Replace the design with your own design
+- Generate a completely new HTML structure unnecessarily
+- Replace existing CSS with a generic CSS implementation
+- Replace images unnecessarily
+
+Instead:
+
+REUSE → CLEAN → MODIFY ONLY WHEN REQUIRED
+
+If existing HTML/CSS can be reused, reuse it.
+
+If an existing CSS rule works, keep it.
+
+If an existing asset is available in the MHTML, use that asset.
+
+Only create new code when it is necessary to remove Wix functionality or make the page work independently.
+
+========================
+4. REMOVE THE IFRAME DEPENDENCY
+========================
+
+The final website MUST NOT use:
+
+<iframe>
+
+Do not keep the Wix demo URL.
+
+Do not embed the Wix website.
+
+Instead, extract the actual page content/resources from the MHTML and place them directly into the standalone page.
+
+========================
+5. ASSETS
+========================
+
+Extract assets from the MHTML whenever possible.
+
+Store them locally, for example:
+
+assets/
+  images/
+  icons/
+  fonts/
+
+Update the HTML/CSS references to use the local assets.
+
+Do not depend on Wix-hosted assets if the required asset is available inside the MHTML.
+
+Do not replace an existing image with a newly generated image unless absolutely necessary.
+
+========================
+6. WIX-SPECIFIC FUNCTIONALITY
+========================
+
+If some interaction originally depended on Wix:
+
+- Identify what the interaction does.
+- Recreate only that functionality using normal HTML/CSS/JavaScript.
+
+For example:
+
+- Mobile menu → vanilla JavaScript
+- Smooth scrolling → CSS/JavaScript
+- Sliders → lightweight JavaScript
+- Accordion → vanilla JavaScript
+- Hover effects → CSS
+- Animations → CSS/vanilla JavaScript
+
+Do not introduce unnecessary frameworks.
+
+========================
+7. PRESERVE THE ORIGINAL WEBSITE
+========================
+
+Preserve as accurately as possible:
+
+- Header
+- Navigation
+- Hero section
+- Images
+- Content sections
+- Services
+- Cards
+- Buttons
+- Forms
+- Footer
+- Typography
+- Font sizes
+- Colors
+- Spacing
+- Borders
+- Shadows
+- Backgrounds
+- Animations
+- Transitions
+- Responsive behavior
+- Mobile layout
+
+The final result should visually match the original captured website.
+
+========================
+8. SINGLE PAGE ONLY
+========================
+
+This is ONLY a single-page website.
+
+Do NOT create:
+
+- Multiple pages
+- About.html
+- Services.html
+- Contact.html
+- Other separate pages
+
+Everything should remain within the single-page website.
+
+Use:
+
+index.html
+
+with supporting:
+
+css/
+js/
+assets/
+
+========================
+9. TEMPLATE-READY STRUCTURE
+========================
+
+This website will later be used as a reusable template in my AI website-generation system.
+
+Therefore, after preserving the original website, make business-specific content easy to replace.
+
+Where appropriate, use placeholders such as:
+
+{{BUSINESS_NAME}}
+{{TAGLINE}}
+{{DESCRIPTION}}
+{{PHONE}}
+{{EMAIL}}
+{{ADDRESS}}
+{{HERO_IMAGE}}
+{{SERVICE_1_TITLE}}
+{{SERVICE_1_DESCRIPTION}}
+
+However, DO NOT replace content blindly.
+
+First preserve the original structure and design.
+
+========================
+10. COST / TOKEN OPTIMIZATION
+========================
+
+This is critical.
+
+I do NOT want an expensive full website regeneration.
+
+Use the MHTML as the source of truth.
+
+Do not regenerate existing HTML/CSS/assets unless necessary.
+
+Your approach should be:
+
+ANALYZE
+→ EXTRACT
+→ REMOVE WIX WRAPPER
+→ REMOVE WIX DEPENDENCIES
+→ REUSE EXISTING CODE
+→ REPLACE ONLY WIX-SPECIFIC FUNCTIONALITY
+→ TEST
+
+NOT:
+
+ANALYZE
+→ GENERATE A COMPLETELY NEW WEBSITE
+
+========================
+11. FINAL VALIDATION
+========================
+
+Before finishing:
+
+1. Confirm the website is a SINGLE PAGE.
+2. Confirm there is NO iframe.
+3. Confirm there are NO Wix runtime dependencies.
+4. Confirm there are NO Wix viewer dependencies.
+5. Confirm there are NO Wix-hosted CSS/JS dependencies.
+6. Confirm assets are local wherever possible.
+7. Confirm the page works without Wix.
+8. Confirm desktop responsiveness.
+9. Confirm mobile responsiveness.
+10. Confirm the visual design remains faithful to the original.
+
+Finally, search the generated project for:
+
+wix.com
+wixstatic.com
+parastorage.com
+manage.wix.com
+iframe
+
+and remove any remaining unnecessary Wix dependencies.
+
+The final output must be a clean, standalone, reusable SINGLE-PAGE website that can run on my own server without Wix.
+
+========================
+APPLICATION COMPATIBILITY NOTE (ADDED WITHOUT REPLACING THE PROMPT ABOVE)
+========================
+
+The Website Crawler Studio's current cleanup input is a captured package containing index.html and assets/, not an uploaded .mhtml file. The crawler has already rendered the page and saved its DOM/assets. Therefore, apply the original prompt's cleanup and preservation requirements to that rendered package; do not claim to have inspected a raw MHTML file in this workflow. Keep all visual HTML/CSS/assets that belong to the actual page. Remove identified Wix viewer/runtime bootstrap code and all iframe tags from Wix outputs. Do not regenerate the site. The application removes obvious runtime bootstrap deterministically before asking the local model for a small, bounded review of any remaining dependency-specific HTML excerpt.
+
+For the local review, return ONLY valid JSON in this shape: {"edits":[{"find":"EXACT literal substring copied from the supplied excerpt","replace":"replacement text","reason":"why this is safe"}],"notes":[],"dependencies_to_review":[]}. Each find must be exact and unique in the full file. Never regenerate the full page. If no additional change is clearly safe, return an empty edits array and list any uncertain dependency in dependencies_to_review.

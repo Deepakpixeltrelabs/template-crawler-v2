@@ -1,0 +1,218 @@
+13:25:01  [studio] starting Wix crawler (crawlers/wix_template_html_assets.py) - mode: crawl
+13:25:01  [studio] local-only AI cleanup enabled with model: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\LLM\models\Qwen2.5-Coder-3B-Instruct-Q4_K_M.gguf
+13:25:01  [studio] standalone copies will be written to: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix
+13:25:01  [studio] no cloud API or API key is used; cleanup runs on the folder-local or configured local model server
+13:25:03  [studio] output folder: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix
+13:25:03  [studio] WARNING: the output folder path is 112 characters long. Windows limits full file paths to about 260 characters, and saved assets sit several folders deeper. If you see 'path too long' errors, move the crawler_studio folder to a short path such as C:\crawler_studio.
+13:25:03  [studio] using 1 listing URL(s) from the page
+13:25:15  === Listing: https://www.wix.com/website/templates?criteria=teacher ===
+13:25:48    detected 6 page(s)
+13:25:48    scanning page 1: https://www.wix.com/website/templates?criteria=teacher
+13:25:52    scanning page 2: https://www.wix.com/website/templates?criteria=teacher&page=2
+13:26:23    scanning page 3: https://www.wix.com/website/templates?criteria=teacher&page=3
+13:26:31    scanning page 4: https://www.wix.com/website/templates?criteria=teacher&page=4
+13:26:37    scanning page 5: https://www.wix.com/website/templates?criteria=teacher&page=5
+13:26:51    scanning page 6: https://www.wix.com/website/templates?criteria=teacher&page=6
+13:26:55    found 72 unique templates for this listing
+13:37:44    saved: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix\wh-1226__researcher-cv-minimal | assets: 335 | validation: OK
+13:37:48    [studio] browser tab was stuck - restarting Chrome
+13:37:52    retrying template after error: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+13:37:52  [cleanup] wh-1226__researcher-cv-minimal: cleaned_with_review_items | model requests: 0, LLM edits applied: 0, asset files updated: 96, deterministic removals: 236
+13:37:52  [cleanup] cleaned copy: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix\wh-1226__researcher-cv-minimal (raw source is unchanged)
+13:39:09    saved: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix\wh-1458__music-school-creative | assets: 251 | validation: OK
+13:39:22  [cleanup] wh-1458__music-school-creative: cleaned | model requests: 0, LLM edits applied: 0, asset files updated: 102, deterministic removals: 243
+13:39:22  [cleanup] cleaned copy: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix\wh-1458__music-school-creative (raw source is unchanged)
+13:40:00    saved: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix\wh-1279__acting-school-uplifting | assets: 292 | validation: OK
+13:40:12  [cleanup] wh-1279__acting-school-uplifting: cleaned | model requests: 0, LLM edits applied: 0, asset files updated: 99, deterministic removals: 241
+13:40:12  [cleanup] cleaned copy: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix\wh-1279__acting-school-uplifting (raw source is unchanged)
+13:40:45    saved: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix\wh-1018__digital-artist-edgy | assets: 220 | validation: OK
+13:40:55  [cleanup] wh-1018__digital-artist-edgy: cleaned_with_review_items | model requests: 0, LLM edits applied: 0, asset files updated: 93, deterministic removals: 228
+13:40:55  [cleanup] cleaned copy: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix\wh-1018__digital-artist-edgy (raw source is unchanged)
+13:41:49    saved: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix\wh-1243__ai-classes-illustrative | assets: 282 | validation: OK
+13:42:02  [cleanup] wh-1243__ai-classes-illustrative: cleaned_with_review_items | model requests: 0, LLM edits applied: 0, asset files updated: 102, deterministic removals: 248
+13:42:02  [cleanup] cleaned copy: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix\wh-1243__ai-classes-illustrative (raw source is unchanged)
+13:42:26    saved: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix\wh-1242__online-language-school-outline | assets: 228 | validation: OK
+13:42:37  [cleanup] wh-1242__online-language-school-outline: cleaned | model requests: 0, LLM edits applied: 0, asset files updated: 103, deterministic removals: 243
+13:42:37  [cleanup] cleaned copy: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix\wh-1242__online-language-school-outline (raw source is unchanged)
+13:43:23    saved: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix\wh-1117__online-business-consulting-school-editorial | assets: 259 | validation: OK
+13:43:36  [cleanup] wh-1117__online-business-consulting-school-editorial: cleaned_with_review_items | model requests: 0, LLM edits applied: 0, asset files updated: 103, deterministic removals: 277
+13:43:36  [cleanup] cleaned copy: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix\wh-1117__online-business-consulting-school-editorial (raw source is unchanged)
+13:43:53    saved: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix\2625__tutor | assets: 123 | validation: PARTIAL
+13:43:53    WARNING: inspect offline-validation.txt and asset-manifest.json for misses
+13:44:02  [cleanup] 2625__tutor: cleaned_with_review_items | model requests: 0, LLM edits applied: 0, asset files updated: 73, deterministic removals: 198
+13:44:02  [cleanup] cleaned copy: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix\2625__tutor (raw source is unchanged)
+13:44:20    saved: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix\4538__music-instructor-clean | assets: 144 | validation: OK
+13:44:28  [cleanup] 4538__music-instructor-clean: cleaned | model requests: 0, LLM edits applied: 0, asset files updated: 60, deterministic removals: 178
+13:44:28  [cleanup] cleaned copy: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix\4538__music-instructor-clean (raw source is unchanged)
+13:44:47    saved: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix\2423__tutor | assets: 129 | validation: PARTIAL
+13:44:47    WARNING: inspect offline-validation.txt and asset-manifest.json for misses
+13:44:58  [cleanup] 2423__tutor: cleaned_with_review_items | model requests: 0, LLM edits applied: 0, asset files updated: 66, deterministic removals: 194
+13:44:58  [cleanup] cleaned copy: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix\2423__tutor (raw source is unchanged)
+13:45:10    saved: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix\3007__academic-cv | assets: 111 | validation: OK
+13:45:17  [cleanup] 3007__academic-cv: cleaned_with_review_items | model requests: 0, LLM edits applied: 0, asset files updated: 63, deterministic removals: 160
+13:45:17  [cleanup] cleaned copy: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix\3007__academic-cv (raw source is unchanged)
+13:45:57    saved: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix\2628__online-school | assets: 195 | validation: PARTIAL
+13:45:57    WARNING: inspect offline-validation.txt and asset-manifest.json for misses
+13:46:07  [cleanup] 2628__online-school: cleaned_with_review_items | model requests: 0, LLM edits applied: 0, asset files updated: 71, deterministic removals: 192
+13:46:07  [cleanup] cleaned copy: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix\2628__online-school (raw source is unchanged)
+13:46:30    saved: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix\1905__coaching-professional | assets: 124 | validation: PARTIAL
+13:46:30    WARNING: inspect offline-validation.txt and asset-manifest.json for misses
+13:46:40  [cleanup] 1905__coaching-professional: cleaned_with_review_items | model requests: 0, LLM edits applied: 0, asset files updated: 76, deterministic removals: 196
+13:46:40  [cleanup] cleaned copy: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix\1905__coaching-professional (raw source is unchanged)
+13:47:06    saved: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix\2377__researcher | assets: 184 | validation: PARTIAL
+13:47:06    WARNING: inspect offline-validation.txt and asset-manifest.json for misses
+13:47:15  [cleanup] 2377__researcher: cleaned_with_review_items | model requests: 0, LLM edits applied: 0, asset files updated: 75, deterministic removals: 209
+13:47:15  [cleanup] cleaned copy: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix\2377__researcher (raw source is unchanged)
+13:47:36    saved: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix\2497__acting-school | assets: 143 | validation: PARTIAL
+13:47:36    WARNING: inspect offline-validation.txt and asset-manifest.json for misses
+13:47:47  [cleanup] 2497__acting-school: cleaned_with_review_items | model requests: 0, LLM edits applied: 0, asset files updated: 71, deterministic removals: 211
+13:47:47  [cleanup] cleaned copy: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix\2497__acting-school (raw source is unchanged)
+13:48:00    saved: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix\4833__tutor-cv-warm | assets: 109 | validation: OK
+13:48:11  [cleanup] 4833__tutor-cv-warm: cleaned_with_review_items | model requests: 0, LLM edits applied: 0, asset files updated: 61, deterministic removals: 169
+13:48:11  [cleanup] cleaned copy: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix\4833__tutor-cv-warm (raw source is unchanged)
+13:48:32      asset failed: https://www.wix.com/demone2/media/emptystate.85a4add5.svg -> 403 Client Error: Forbidden for url: https://static.wixstatic.com/media/emptystate.85a4add5.svg
+13:48:39    saved: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix\2276__online-education-lectures | assets: 216 | validation: PARTIAL
+13:48:39    WARNING: inspect offline-validation.txt and asset-manifest.json for misses
+13:48:49  [cleanup] 2276__online-education-lectures: cleaned_with_review_items | model requests: 0, LLM edits applied: 0, asset files updated: 69, deterministic removals: 192
+13:48:49  [cleanup] cleaned copy: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix\2276__online-education-lectures (raw source is unchanged)
+13:49:08    saved: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix\2390__researcher | assets: 139 | validation: PARTIAL
+13:49:08    WARNING: inspect offline-validation.txt and asset-manifest.json for misses
+13:49:16  [cleanup] 2390__researcher: cleaned_with_review_items | model requests: 0, LLM edits applied: 0, asset files updated: 67, deterministic removals: 184
+13:49:16  [cleanup] cleaned copy: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix\2390__researcher (raw source is unchanged)
+13:49:33    saved: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix\2845__tutoring-company | assets: 129 | validation: PARTIAL
+13:49:33    WARNING: inspect offline-validation.txt and asset-manifest.json for misses
+13:49:43  [cleanup] 2845__tutoring-company: cleaned_with_review_items | model requests: 0, LLM edits applied: 0, asset files updated: 73, deterministic removals: 185
+13:49:43  [cleanup] cleaned copy: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix\2845__tutoring-company (raw source is unchanged)
+13:49:59    saved: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix\2622__business-cv | assets: 119 | validation: OK
+13:50:08  [cleanup] 2622__business-cv: cleaned_with_review_items | model requests: 0, LLM edits applied: 0, asset files updated: 53, deterministic removals: 165
+13:50:08  [cleanup] cleaned copy: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix\2622__business-cv (raw source is unchanged)
+13:50:31    saved: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix\4734__academic-cv-traditional | assets: 125 | validation: OK
+13:50:39  [cleanup] 4734__academic-cv-traditional: cleaned_with_review_items | model requests: 0, LLM edits applied: 0, asset files updated: 62, deterministic removals: 177
+13:50:39  [cleanup] cleaned copy: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix\4734__academic-cv-traditional (raw source is unchanged)
+13:50:56      asset failed: https://www.wix.com/demone2/media/emptystate.85a4add5.svg -> 403 Client Error: Forbidden for url: https://static.wixstatic.com/media/emptystate.85a4add5.svg
+13:51:03    saved: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix\2473__coaching-professional | assets: 210 | validation: PARTIAL
+13:51:03    WARNING: inspect offline-validation.txt and asset-manifest.json for misses
+13:51:15  [cleanup] 2473__coaching-professional: cleaned_with_review_items | model requests: 0, LLM edits applied: 0, asset files updated: 75, deterministic removals: 215
+13:51:15  [cleanup] cleaned copy: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix\2473__coaching-professional (raw source is unchanged)
+13:51:33    saved: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix\2483__coaching-professional | assets: 177 | validation: PARTIAL
+13:51:33    WARNING: inspect offline-validation.txt and asset-manifest.json for misses
+13:51:46  [cleanup] 2483__coaching-professional: cleaned_with_review_items | model requests: 0, LLM edits applied: 0, asset files updated: 78, deterministic removals: 229
+13:51:46  [cleanup] cleaned copy: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix\2483__coaching-professional (raw source is unchanged)
+13:51:59    saved: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix\2846__creative-cv | assets: 105 | validation: OK
+13:52:08  [cleanup] 2846__creative-cv: cleaned_with_review_items | model requests: 0, LLM edits applied: 0, asset files updated: 57, deterministic removals: 164
+13:52:08  [cleanup] cleaned copy: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix\2846__creative-cv (raw source is unchanged)
+13:52:30    saved: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix\2711__classroom | assets: 137 | validation: PARTIAL
+13:52:30    WARNING: inspect offline-validation.txt and asset-manifest.json for misses
+13:52:39  [cleanup] 2711__classroom: cleaned_with_review_items | model requests: 0, LLM edits applied: 0, asset files updated: 68, deterministic removals: 181
+13:52:39  [cleanup] cleaned copy: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix\2711__classroom (raw source is unchanged)
+13:53:48    saved: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix\4771__tap-dance-instructor-rhythmic | assets: 161 | validation: OK
+13:54:01  [cleanup] 4771__tap-dance-instructor-rhythmic: cleaned_with_review_items | model requests: 0, LLM edits applied: 0, asset files updated: 70, deterministic removals: 183
+13:54:01  [cleanup] cleaned copy: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix\4771__tap-dance-instructor-rhythmic (raw source is unchanged)
+13:55:22    saved: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix\5403__interior-design-teacher-clean | assets: 211 | validation: OK
+13:55:33  [cleanup] 5403__interior-design-teacher-clean: cleaned_with_review_items | model requests: 0, LLM edits applied: 0, asset files updated: 69, deterministic removals: 190
+13:55:33  [cleanup] cleaned copy: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix\5403__interior-design-teacher-clean (raw source is unchanged)
+13:55:51    saved: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix\2788__business-cv | assets: 80 | validation: OK
+13:55:59  [cleanup] 2788__business-cv: cleaned_with_review_items | model requests: 0, LLM edits applied: 0, asset files updated: 41, deterministic removals: 142
+13:55:59  [cleanup] cleaned copy: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix\2788__business-cv (raw source is unchanged)
+13:56:13    saved: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix\3149__school-project | assets: 89 | validation: OK
+13:56:21  [cleanup] 3149__school-project: cleaned_with_review_items | model requests: 0, LLM edits applied: 0, asset files updated: 58, deterministic removals: 149
+13:56:21  [cleanup] cleaned copy: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix\3149__school-project (raw source is unchanged)
+13:56:43    saved: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix\2499__education-blog | assets: 181 | validation: OK
+13:56:51  [cleanup] 2499__education-blog: cleaned_with_review_items | model requests: 0, LLM edits applied: 0, asset files updated: 68, deterministic removals: 202
+13:56:51  [cleanup] cleaned copy: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix\2499__education-blog (raw source is unchanged)
+13:57:30    saved: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix\4572__business-coach-counselor-soothing | assets: 126 | validation: OK
+13:57:38  [cleanup] 4572__business-coach-counselor-soothing: cleaned_with_review_items | model requests: 0, LLM edits applied: 0, asset files updated: 62, deterministic removals: 172
+13:57:38  [cleanup] cleaned copy: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix\4572__business-coach-counselor-soothing (raw source is unchanged)
+13:57:55    saved: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix\4631__academic-cv-scholarly | assets: 129 | validation: OK
+13:58:06  [cleanup] 4631__academic-cv-scholarly: cleaned_with_review_items | model requests: 0, LLM edits applied: 0, asset files updated: 64, deterministic removals: 181
+13:58:06  [cleanup] cleaned copy: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix\4631__academic-cv-scholarly (raw source is unchanged)
+13:59:06    saved: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix\4881__english-school-project-simple | assets: 141 | validation: OK
+13:59:17  [cleanup] 4881__english-school-project-simple: cleaned_with_review_items | model requests: 0, LLM edits applied: 0, asset files updated: 63, deterministic removals: 168
+13:59:17  [cleanup] cleaned copy: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix\4881__english-school-project-simple (raw source is unchanged)
+14:00:16    saved: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix\5265__coding-school-sleek | assets: 120 | validation: OK
+14:00:26  [cleanup] 5265__coding-school-sleek: cleaned_with_review_items | model requests: 0, LLM edits applied: 0, asset files updated: 62, deterministic removals: 176
+14:00:26  [cleanup] cleaned copy: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix\5265__coding-school-sleek (raw source is unchanged)
+14:00:40    saved: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix\2942__creative-cv | assets: 95 | validation: OK
+14:00:47  [cleanup] 2942__creative-cv: cleaned_with_review_items | model requests: 0, LLM edits applied: 0, asset files updated: 40, deterministic removals: 133
+14:00:47  [cleanup] cleaned copy: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix\2942__creative-cv (raw source is unchanged)
+14:01:08    saved: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix\4338__academic-cv-traditional | assets: 119 | validation: OK
+14:01:18  [cleanup] 4338__academic-cv-traditional: cleaned_with_review_items | model requests: 0, LLM edits applied: 0, asset files updated: 61, deterministic removals: 174
+14:01:18  [cleanup] cleaned copy: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix\4338__academic-cv-traditional (raw source is unchanged)
+14:01:56    saved: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix\4355__special-needs-school-warm | assets: 102 | validation: OK
+14:02:06  [cleanup] 4355__special-needs-school-warm: cleaned_with_review_items | model requests: 0, LLM edits applied: 0, asset files updated: 60, deterministic removals: 168
+14:02:06  [cleanup] cleaned copy: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix\4355__special-needs-school-warm (raw source is unchanged)
+14:02:23    saved: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix\2748__creative-cv | assets: 120 | validation: OK
+14:02:31  [cleanup] 2748__creative-cv: cleaned | model requests: 0, LLM edits applied: 0, asset files updated: 44, deterministic removals: 140
+14:02:31  [cleanup] cleaned copy: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix\2748__creative-cv (raw source is unchanged)
+14:02:44    saved: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix\3031__writer | assets: 85 | validation: OK
+14:02:50  [cleanup] 3031__writer: cleaned_with_review_items | model requests: 0, LLM edits applied: 0, asset files updated: 55, deterministic removals: 155
+14:02:50  [cleanup] cleaned copy: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix\3031__writer (raw source is unchanged)
+14:03:09    saved: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix\2792__researcher | assets: 125 | validation: PARTIAL
+14:03:09    WARNING: inspect offline-validation.txt and asset-manifest.json for misses
+14:03:16  [cleanup] 2792__researcher: cleaned_with_review_items | model requests: 0, LLM edits applied: 0, asset files updated: 66, deterministic removals: 167
+14:03:16  [cleanup] cleaned copy: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix\2792__researcher (raw source is unchanged)
+14:04:32    saved: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix\4730__business-coach-energetic | assets: 142 | validation: OK
+14:04:43  [cleanup] 4730__business-coach-energetic: cleaned_with_review_items | model requests: 0, LLM edits applied: 0, asset files updated: 65, deterministic removals: 181
+14:04:43  [cleanup] cleaned copy: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix\4730__business-coach-energetic (raw source is unchanged)
+14:05:58    saved: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix\4953__life-coach-energetic | assets: 144 | validation: OK
+14:06:06  [cleanup] 4953__life-coach-energetic: cleaned_with_review_items | model requests: 0, LLM edits applied: 0, asset files updated: 64, deterministic removals: 183
+14:06:06  [cleanup] cleaned copy: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix\4953__life-coach-energetic (raw source is unchanged)
+14:06:50    saved: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix\5030__adult-education-school-professional | assets: 120 | validation: OK
+14:06:59  [cleanup] 5030__adult-education-school-professional: cleaned_with_review_items | model requests: 0, LLM edits applied: 0, asset files updated: 61, deterministic removals: 177
+14:06:59  [cleanup] cleaned copy: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix\5030__adult-education-school-professional (raw source is unchanged)
+14:07:19    saved: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix\4701__belly-dancing-instructor-colorful | assets: 149 | validation: OK
+14:07:28  [cleanup] 4701__belly-dancing-instructor-colorful: cleaned_with_review_items | model requests: 0, LLM edits applied: 0, asset files updated: 70, deterministic removals: 182
+14:07:28  [cleanup] cleaned copy: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix\4701__belly-dancing-instructor-colorful (raw source is unchanged)
+14:07:43    saved: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix\1695__musician | assets: 120 | validation: PARTIAL
+14:07:43    WARNING: inspect offline-validation.txt and asset-manifest.json for misses
+14:07:51  [cleanup] 1695__musician: cleaned_with_review_items | model requests: 0, LLM edits applied: 0, asset files updated: 64, deterministic removals: 178
+14:07:51  [cleanup] cleaned copy: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix\1695__musician (raw source is unchanged)
+14:08:47    saved: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix\4682__career-coaching-sleek | assets: 136 | validation: OK
+14:08:54  [cleanup] 4682__career-coaching-sleek: cleaned_with_review_items | model requests: 0, LLM edits applied: 0, asset files updated: 65, deterministic removals: 192
+14:08:54  [cleanup] cleaned copy: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix\4682__career-coaching-sleek (raw source is unchanged)
+14:09:20    saved: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix\4830__university-project-structured | assets: 117 | validation: OK
+14:09:28  [cleanup] 4830__university-project-structured: cleaned_with_review_items | model requests: 0, LLM edits applied: 0, asset files updated: 63, deterministic removals: 169
+14:09:28  [cleanup] cleaned copy: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix\4830__university-project-structured (raw source is unchanged)
+14:09:53    saved: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix\693__musician | assets: 158 | validation: PARTIAL
+14:09:53    WARNING: inspect offline-validation.txt and asset-manifest.json for misses
+14:10:03  [cleanup] 693__musician: cleaned_with_review_items | model requests: 0, LLM edits applied: 0, asset files updated: 66, deterministic removals: 167
+14:10:03  [cleanup] cleaned copy: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix\693__musician (raw source is unchanged)
+14:10:49      asset failed: https://www.wix.com/demone2/media/emptystate.85a4add5.svg -> 403 Client Error: Forbidden for url: https://static.wixstatic.com/media/emptystate.85a4add5.svg
+14:10:56    saved: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix\3059__online-dance-lessons | assets: 249 | validation: PARTIAL
+14:10:56    WARNING: inspect offline-validation.txt and asset-manifest.json for misses
+14:11:08  [cleanup] 3059__online-dance-lessons: cleaned_with_review_items | model requests: 0, LLM edits applied: 0, asset files updated: 74, deterministic removals: 218
+14:11:08  [cleanup] cleaned copy: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix\3059__online-dance-lessons (raw source is unchanged)
+14:11:17      asset failed: https://www.wix.com/demone2/media/emptystate.85a4add5.svg -> 403 Client Error: Forbidden for url: https://static.wixstatic.com/media/emptystate.85a4add5.svg
+14:11:24    saved: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix\1892__business-cv | assets: 114 | validation: PARTIAL
+14:11:24    WARNING: inspect offline-validation.txt and asset-manifest.json for misses
+14:11:34  [cleanup] 1892__business-cv: cleaned_with_review_items | model requests: 0, LLM edits applied: 0, asset files updated: 66, deterministic removals: 174
+14:11:34  [cleanup] cleaned copy: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix\1892__business-cv (raw source is unchanged)
+14:11:51    saved: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix\4492__creative-writing-course-monochromatic | assets: 131 | validation: OK
+14:11:59  [cleanup] 4492__creative-writing-course-monochromatic: cleaned_with_review_items | model requests: 0, LLM edits applied: 0, asset files updated: 62, deterministic removals: 183
+14:11:59  [cleanup] cleaned copy: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix\4492__creative-writing-course-monochromatic (raw source is unchanged)
+14:12:16    saved: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix\2250__academic-cv | assets: 110 | validation: OK
+14:12:22  [cleanup] 2250__academic-cv: cleaned_with_review_items | model requests: 0, LLM edits applied: 0, asset files updated: 44, deterministic removals: 142
+14:12:22  [cleanup] cleaned copy: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix\2250__academic-cv (raw source is unchanged)
+14:14:04      asset failed: https://static.parastorage.com/fonts/v2/af36905f-3c92-4ef9-b0c1-f91432f16ac1/v1/avenir-lt-w05_35-light.woff2 -> HTTPSConnectionPool(host='static.parastorage.com', port=443): Read timed out. (read timeout=8)
+14:14:35      asset failed: https://static.parastorage.com/fonts/v2/af36905f-3c92-4ef9-b0c1-f91432f16ac1/v1/avenir-lt-w01_35-light1475496.woff2 -> HTTPSConnectionPool(host='static.parastorage.com', port=443): Read timed out. (read timeout=20)
+14:14:54      asset failed: https://static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w10-light.woff2 -> HTTPSConnectionPool(host='static.parastorage.com', port=443): Read timed out. (read timeout=8)
+14:15:11      asset failed: https://static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w02-light.woff2 -> HTTPSConnectionPool(host='static.parastorage.com', port=443): Read timed out. (read timeout=8)
+14:15:29      asset failed: https://static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w01-light.woff2 -> HTTPSConnectionPool(host='static.parastorage.com', port=443): Read timed out. (read timeout=8)
+14:15:47      asset failed: https://static.parastorage.com/fonts/v2/790166f1-b347-4f16-8a29-f0c4931a7c35/v1/futura-lt-w01-book.woff2 -> HTTPSConnectionPool(host='static.parastorage.com', port=443): Read timed out. (read timeout=8)
+14:16:05      asset failed: https://static.parastorage.com/fonts/v2/74290729-59ae-4129-87d0-2eec3974dce1/v1/avenir-lt-w05_85-heavy.woff2 -> HTTPSConnectionPool(host='static.parastorage.com', port=443): Read timed out. (read timeout=8)
+14:16:23      asset failed: https://static.parastorage.com/fonts/v2/74290729-59ae-4129-87d0-2eec3974dce1/v1/avenir-lt-w01_85-heavy1475544.woff2 -> HTTPSConnectionPool(host='static.parastorage.com', port=443): Read timed out. (read timeout=8)
+14:16:53      asset failed: https://www.wix.com/sgtemplates/media/emptystate.85a4add5.svg -> HTTPSConnectionPool(host='www.wix.com', port=443): Read timed out. (read timeout=8)
+14:17:11      asset failed: https://static.parastorage.com/unpkg/core-js-bundle@3.2.1/minified.js -> HTTPSConnectionPool(host='static.parastorage.com', port=443): Read timed out. (read timeout=8)
+14:17:30      asset failed: https://static.parastorage.com/unpkg/focus-within-polyfill@5.0.9/dist/focus-within-polyfill.js -> HTTPSConnectionPool(host='static.parastorage.com', port=443): Read timed out. (read timeout=8)
+14:17:35    saved: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix\4648__art-classes-simple | assets: 141 | validation: PARTIAL
+14:17:35    WARNING: inspect offline-validation.txt and asset-manifest.json for misses
+14:17:46  [cleanup] 4648__art-classes-simple: cleaned_with_review_items | model requests: 0, LLM edits applied: 0, asset files updated: 64, deterministic removals: 179
+14:17:46  [cleanup] cleaned copy: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix\4648__art-classes-simple (raw source is unchanged)
+14:18:31    saved: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix\5501__interior-design-teacher-modern | assets: 0 | validation: OK
+14:18:33  [cleanup] 5501__interior-design-teacher-modern: cleaned_with_review_items | model requests: 0, LLM edits applied: 0, asset files updated: 0, deterministic removals: 1
+14:18:33  [cleanup] cleaned copy: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix\5501__interior-design-teacher-modern (raw source is unchanged)
+14:19:26    saved: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs\wix\4629__business-school-professional | assets: 0 | validation: OK
+14:19:27  [cleanup] 4629__business-school-professional: cleaned_with_review_items | model requests: 0, LLM edits applied: 0, asset files updated: 0, deterministic removals: 1
+14:19:27  [cleanup] cleaned copy: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\outputs_standalone\wix\4629__business-school-professional (raw source is unchanged)
+14:19:37  [studio] stop requested - ending crawler and its browser
+14:19:38  [studio] crawler process ended (exit code 1) - status: stopped

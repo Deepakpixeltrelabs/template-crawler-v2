@@ -1,0 +1,2 @@
+"use strict";(self.webpackJsonp__wix_thunderbolt_app=self.webpackJsonp__wix_thunderbolt_app||[]).push([["8277"],{23617(n,e,t){t.d(e,{S:()=>r});let r=(0,t(44624).P)("@wix/viewer-service-anchors")},44624(n,e,t){function r(n){return n}function i(n,e){return e}t.d(e,{P:()=>r,n:()=>i}),i.withConfig=function(){return function(n,e){return e}}}}]);
+//# sourceMappingURL=https://static.parastorage.com/services/wix-thunderbolt/dist/pageAnchors.c566b640.chunk.min.js.map

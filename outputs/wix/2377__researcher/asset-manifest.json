@@ -1,0 +1,1459 @@
+{
+  "source_url": "https://www.wix.com/demone2/professor?experimentsoff=specs.thunderbolt.viewport_hydration_extended_react_18",
+  "asset_count": 184,
+  "assets": [
+    {
+      "url": "https://www.wix.com/favicon.ico",
+      "local": "assets/images/favicon_3fd805aa90.ico",
+      "category": "images",
+      "mime": "image/x-icon",
+      "bytes": 3477
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/@wix/wix-fonts@1.14.0/media/WixMadeforTextVF_W_Wght.8022447a.woff2",
+      "local": "assets/fonts/WixMadeforTextVF_W_Wght.8022447a_3c55591680.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 40188
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/@wix/wix-fonts@1.14.0/media/WixMadeforTextItalicVF_W_Wght.54ac8fe3.woff2",
+      "local": "assets/fonts/WixMadeforTextItalicVF_W_Wght.54ac8fe3_cf3b019c1c.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 28068
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/@wix/wix-fonts@1.14.0/media/WixMadeforText_W_Rg.5a5798be.woff2",
+      "local": "assets/fonts/WixMadeforText_W_Rg.5a5798be_889c4f35ab.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 21256
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/@wix/wix-fonts@1.14.0/media/WixMadeforText_W_Rg.1a0ca11a.woff",
+      "local": "assets/fonts/WixMadeforText_W_Rg.1a0ca11a_c23ef73440.woff",
+      "category": "fonts",
+      "mime": "font/woff",
+      "bytes": 26104
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/@wix/wix-fonts@1.14.0/media/WixMadeforText_Rg.c16c286e.ttf",
+      "local": "assets/fonts/WixMadeforText_Rg.c16c286e_ed78cbfb73.ttf",
+      "category": "fonts",
+      "mime": "font/ttf",
+      "bytes": 114076
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/@wix/wix-fonts@1.14.0/media/WixMadeforText_W_Rg_It.12f3cd9d.woff2",
+      "local": "assets/fonts/WixMadeforText_W_Rg_It.12f3cd9d_a8ef73493f.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 22240
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/@wix/wix-fonts@1.14.0/media/WixMadeforText_W_Rg_It.8e17780b.woff",
+      "local": "assets/fonts/WixMadeforText_W_Rg_It.8e17780b_9c8d8b01b3.woff",
+      "category": "fonts",
+      "mime": "font/woff",
+      "bytes": 27412
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/@wix/wix-fonts@1.14.0/media/WixMadeforText_It.b0a86715.ttf",
+      "local": "assets/fonts/WixMadeforText_It.b0a86715_3d88324b48.ttf",
+      "category": "fonts",
+      "mime": "font/ttf",
+      "bytes": 71236
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/@wix/wix-fonts@1.14.0/media/WixMadeforText_W_Bd.9d07f9d7.woff2",
+      "local": "assets/fonts/WixMadeforText_W_Bd.9d07f9d7_da9aba6fe1.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 22144
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/@wix/wix-fonts@1.14.0/media/WixMadeforText_W_Bd.1b77caba.woff",
+      "local": "assets/fonts/WixMadeforText_W_Bd.1b77caba_63f9a1dae7.woff",
+      "category": "fonts",
+      "mime": "font/woff",
+      "bytes": 26940
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/@wix/wix-fonts@1.14.0/media/WixMadeforText_Bd.d27ace57.ttf",
+      "local": "assets/fonts/WixMadeforText_Bd.d27ace57_b8930ba003.ttf",
+      "category": "fonts",
+      "mime": "font/ttf",
+      "bytes": 114956
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/@wix/wix-fonts@1.14.0/media/WixMadeforText_W_Bd_It.31766fc9.woff2",
+      "local": "assets/fonts/WixMadeforText_W_Bd_It.31766fc9_9fa99e92ce.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 23588
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/@wix/wix-fonts@1.14.0/media/WixMadeforText_W_Bd_It.95574030.woff",
+      "local": "assets/fonts/WixMadeforText_W_Bd_It.95574030_3fdbfd4ce2.woff",
+      "category": "fonts",
+      "mime": "font/woff",
+      "bytes": 28692
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/@wix/wix-fonts@1.14.0/media/WixMadeforText_BdIt.9aa62c7d.ttf",
+      "local": "assets/fonts/WixMadeforText_BdIt.9aa62c7d_5dc640abdd.ttf",
+      "category": "fonts",
+      "mime": "font/ttf",
+      "bytes": 72528
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/@wix/wix-fonts@1.14.0/media/WixMadeforText_W_XBd.bcb42c9a.woff2",
+      "local": "assets/fonts/WixMadeforText_W_XBd.bcb42c9a_831d2100ea.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 22688
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/@wix/wix-fonts@1.14.0/media/WixMadeforText_W_XBd.068dbf77.woff",
+      "local": "assets/fonts/WixMadeforText_W_XBd.068dbf77_ad7d74cc2d.woff",
+      "category": "fonts",
+      "mime": "font/woff",
+      "bytes": 27456
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/@wix/wix-fonts@1.14.0/media/WixMadeforText_XBd.9182eef9.ttf",
+      "local": "assets/fonts/WixMadeforText_XBd.9182eef9_228ee492de.ttf",
+      "category": "fonts",
+      "mime": "font/ttf",
+      "bytes": 115144
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/@wix/wix-fonts@1.14.0/media/WixMadeforText_W_XBd_It.9d580e0e.woff2",
+      "local": "assets/fonts/WixMadeforText_W_XBd_It.9d580e0e_9f6538b25b.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 23764
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/@wix/wix-fonts@1.14.0/media/WixMadeforText_W_XBd_It.631cda9a.woff",
+      "local": "assets/fonts/WixMadeforText_W_XBd_It.631cda9a_32739eda17.woff",
+      "category": "fonts",
+      "mime": "font/woff",
+      "bytes": 28912
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/@wix/wix-fonts@1.14.0/media/WixMadeforText_XBdIt.e5d9e9bc.ttf",
+      "local": "assets/fonts/WixMadeforText_XBdIt.e5d9e9bc_ecdd681549.ttf",
+      "category": "fonts",
+      "mime": "font/ttf",
+      "bytes": 73328
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/@wix/wix-fonts@1.14.0/madefor.min.css",
+      "local": "assets/css/madefor.min_9d8255170a.css",
+      "category": "css",
+      "mime": "text/css",
+      "bytes": 2576
+    },
+    {
+      "url": "https://static.wixstatic.com/media/c22c23_2a566c3054914e13bd588d00c0468724~mv2_d_5700_3800_s_4_2.jpg/v1/crop/x_2087,y_0,w_3137,h_3800/fill/w_454,h_549,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/GettyImages-688893733.jpg",
+      "local": "assets/images/GettyImages-688893733_76db9a0da5.jpg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 15512
+    },
+    {
+      "url": "https://static.wixstatic.com/media/c22c23_2a566c3054914e13bd588d00c0468724~mv2_d_5700_3800_s_4_2.jpg/v1/crop/x_2087,y_0,w_3137,h_3800/fill/w_908,h_1098,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/GettyImages-688893733.jpg",
+      "local": "assets/images/GettyImages-688893733_1729d23eae.jpg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 15512
+    },
+    {
+      "url": "https://static.wixstatic.com/media/c22c23_5f91920a269b4a9c85b7da1f0f822d29~mv2_d_3856_2574_s_4_2.jpg/v1/fill/w_468,h_459,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/c22c23_5f91920a269b4a9c85b7da1f0f822d29~mv2_d_3856_2574_s_4_2.jpg",
+      "local": "assets/images/c22c23_5f91920a269b4a9c85b7da1f0f822d29_mv2_d_3856_2574_s_4_2_21a8833146.jpg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 40975
+    },
+    {
+      "url": "https://static.wixstatic.com/media/c22c23_53e365c5481844298a6c69670ae11421~mv2_d_5455_3638_s_4_2.jpg/v1/fill/w_469,h_459,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/c22c23_53e365c5481844298a6c69670ae11421~mv2_d_5455_3638_s_4_2.jpg",
+      "local": "assets/images/c22c23_53e365c5481844298a6c69670ae11421_mv2_d_5455_3638_s_4_2_9123c0ef30.jpg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 52117
+    },
+    {
+      "url": "https://static.wixstatic.com/media/c22c23_567b9c7bdc9a453585688e9bc0c98433~mv2_d_3888_2592_s_4_2.jpeg/v1/fill/w_469,h_459,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/c22c23_567b9c7bdc9a453585688e9bc0c98433~mv2_d_3888_2592_s_4_2.jpeg",
+      "local": "assets/images/c22c23_567b9c7bdc9a453585688e9bc0c98433_mv2_d_3888_2592_s_4_2_2e0e7b1c24.jpeg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 55449
+    },
+    {
+      "url": "https://static.wixstatic.com/media/c22c23_3b21abb2d4d44bedb8c5561823c9c51e~mv2_d_6019_4019_s_4_2.png/v1/fit/w_6019,h_4019,q_90/file.png/v1/fill/w_566,h_543,al_c,q_90,usm_0.66_1.00_0.01/v1/fit/w_6019,h_4019,q_90/file.webp",
+      "local": "assets/images/file_852d5fd06b.webp",
+      "category": "images",
+      "mime": "image/webp",
+      "bytes": 86784
+    },
+    {
+      "url": "https://static.wixstatic.com/media/84770f_f5cc8d0bb5b1480f9ca8695f5cc9541c~mv2.jpg/v1/fill/w_469,h_254,enc_auto/file.jpeg",
+      "local": "assets/images/file_64db1560c7.jpeg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 18781
+    },
+    {
+      "url": "https://static.wixstatic.com/media/84770f_f5cc8d0bb5b1480f9ca8695f5cc9541c~mv2.jpg/v1/fill/w_937,h_507,enc_auto/file.jpeg",
+      "local": "assets/images/file_8e9e85c7cb.jpeg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 17287
+    },
+    {
+      "url": "https://static.wixstatic.com/media/84770f_f5cc8d0bb5b1480f9ca8695f5cc9541c~mv2.jpg/v1/fill/w_1406,h_761,enc_auto/file.jpeg",
+      "local": "assets/images/file_cc7b1d1269.jpeg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 17287
+    },
+    {
+      "url": "https://static.wixstatic.com/media/84770f_f5cc8d0bb5b1480f9ca8695f5cc9541c~mv2.jpg/v1/fill/w_469,h_254,enc_auto/file.jpeg 1x, https://static.wixstatic.com/media/84770f_f5cc8d0bb5b1480f9ca8695f5cc9541c~mv2.jpg/v1/fill/w_937,h_507,enc_auto/file.jpeg 2x, https://static.wixstatic.com/media/84770f_f5cc8d0bb5b1480f9ca8695f5cc9541c~mv2.jpg/v1/fill/w_1406,h_761,enc_auto/file.jpeg 3x",
+      "local": "assets/images/file_bb999b204d.jpeg_3x",
+      "category": "images",
+      "mime": "image/jpeg",
+      "bytes": 142995
+    },
+    {
+      "url": "https://static.wixstatic.com/media/84770f_f4819b09ac7a46a08d69921bb5d92141~mv2.jpg/v1/fill/w_469,h_254,enc_auto/file.jpeg",
+      "local": "assets/images/file_18b4a6a82a.jpeg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 7435
+    },
+    {
+      "url": "https://static.wixstatic.com/media/84770f_f4819b09ac7a46a08d69921bb5d92141~mv2.jpg/v1/fill/w_937,h_507,enc_auto/file.jpeg",
+      "local": "assets/images/file_09f1a0bd6a.jpeg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 17287
+    },
+    {
+      "url": "https://static.wixstatic.com/media/84770f_f4819b09ac7a46a08d69921bb5d92141~mv2.jpg/v1/fill/w_1406,h_761,enc_auto/file.jpeg",
+      "local": "assets/images/file_edcdc671b2.jpeg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 17287
+    },
+    {
+      "url": "https://static.wixstatic.com/media/84770f_f4819b09ac7a46a08d69921bb5d92141~mv2.jpg/v1/fill/w_469,h_254,enc_auto/file.jpeg 1x, https://static.wixstatic.com/media/84770f_f4819b09ac7a46a08d69921bb5d92141~mv2.jpg/v1/fill/w_937,h_507,enc_auto/file.jpeg 2x, https://static.wixstatic.com/media/84770f_f4819b09ac7a46a08d69921bb5d92141~mv2.jpg/v1/fill/w_1406,h_761,enc_auto/file.jpeg 3x",
+      "local": "assets/images/file_b35c391a3b.jpeg_3x",
+      "category": "images",
+      "mime": "image/jpeg",
+      "bytes": 71081
+    },
+    {
+      "url": "https://static.wixstatic.com/media/84770f_9bd7209eaed44326bd955816b5964ecf~mv2.jpg/v1/fill/w_469,h_254,enc_auto/file.jpeg",
+      "local": "assets/images/file_1c8412241a.jpeg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 23004
+    },
+    {
+      "url": "https://static.wixstatic.com/media/84770f_9bd7209eaed44326bd955816b5964ecf~mv2.jpg/v1/fill/w_937,h_507,enc_auto/file.jpeg",
+      "local": "assets/images/file_facd31ac6f.jpeg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 17287
+    },
+    {
+      "url": "https://static.wixstatic.com/media/84770f_9bd7209eaed44326bd955816b5964ecf~mv2.jpg/v1/fill/w_1406,h_761,enc_auto/file.jpeg",
+      "local": "assets/images/file_355b71e7bb.jpeg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 17287
+    },
+    {
+      "url": "https://static.wixstatic.com/media/84770f_9bd7209eaed44326bd955816b5964ecf~mv2.jpg/v1/fill/w_469,h_254,enc_auto/file.jpeg 1x, https://static.wixstatic.com/media/84770f_9bd7209eaed44326bd955816b5964ecf~mv2.jpg/v1/fill/w_937,h_507,enc_auto/file.jpeg 2x, https://static.wixstatic.com/media/84770f_9bd7209eaed44326bd955816b5964ecf~mv2.jpg/v1/fill/w_1406,h_761,enc_auto/file.jpeg 3x",
+      "local": "assets/images/file_e317672d08.jpeg_3x",
+      "category": "images",
+      "mime": "image/jpeg",
+      "bytes": 149002
+    },
+    {
+      "url": "https://static.wixstatic.com/media/84770f_427bb6d3196b4f8fba324811b6a3418f~mv2.jpg/v1/fill/w_469,h_254,enc_auto/file.jpeg",
+      "local": "assets/images/file_21c47d83b6.jpeg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 22762
+    },
+    {
+      "url": "https://static.wixstatic.com/media/84770f_427bb6d3196b4f8fba324811b6a3418f~mv2.jpg/v1/fill/w_937,h_507,enc_auto/file.jpeg",
+      "local": "assets/images/file_34ee7cb3a3.jpeg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 17287
+    },
+    {
+      "url": "https://static.wixstatic.com/media/84770f_427bb6d3196b4f8fba324811b6a3418f~mv2.jpg/v1/fill/w_1406,h_761,enc_auto/file.jpeg",
+      "local": "assets/images/file_dc883e482a.jpeg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 17287
+    },
+    {
+      "url": "https://static.wixstatic.com/media/84770f_427bb6d3196b4f8fba324811b6a3418f~mv2.jpg/v1/fill/w_469,h_254,enc_auto/file.jpeg 1x, https://static.wixstatic.com/media/84770f_427bb6d3196b4f8fba324811b6a3418f~mv2.jpg/v1/fill/w_937,h_507,enc_auto/file.jpeg 2x, https://static.wixstatic.com/media/84770f_427bb6d3196b4f8fba324811b6a3418f~mv2.jpg/v1/fill/w_1406,h_761,enc_auto/file.jpeg 3x",
+      "local": "assets/images/file_2fb25fbc39.jpeg_3x",
+      "category": "images",
+      "mime": "image/jpeg",
+      "bytes": 147533
+    },
+    {
+      "url": "https://static.wixstatic.com/media/84770f_cd5aacbbe969444da08881dbf4e77ebd~mv2.jpg/v1/fill/w_937,h_527,enc_auto/file.jpeg",
+      "local": "assets/images/file_f9e1204df9.jpeg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 17287
+    },
+    {
+      "url": "https://static.wixstatic.com/media/84770f_cd5aacbbe969444da08881dbf4e77ebd~mv2.jpg/v1/fill/w_1874,h_1054,enc_auto/file.jpeg",
+      "local": "assets/images/file_bfc4d7625a.jpeg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 17287
+    },
+    {
+      "url": "https://static.wixstatic.com/media/84770f_cd5aacbbe969444da08881dbf4e77ebd~mv2.jpg/v1/fill/w_2811,h_1581,enc_auto/file.jpeg",
+      "local": "assets/images/file_6df6f24a6b.jpeg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 17287
+    },
+    {
+      "url": "https://static.wixstatic.com/media/84770f_cd5aacbbe969444da08881dbf4e77ebd~mv2.jpg/v1/fill/w_937,h_527,enc_auto/file.jpeg 1x, https://static.wixstatic.com/media/84770f_cd5aacbbe969444da08881dbf4e77ebd~mv2.jpg/v1/fill/w_1874,h_1054,enc_auto/file.jpeg 2x, https://static.wixstatic.com/media/84770f_cd5aacbbe969444da08881dbf4e77ebd~mv2.jpg/v1/fill/w_2811,h_1581,enc_auto/file.jpeg 3x",
+      "local": "assets/images/file_96a9eb4e55.jpeg_3x",
+      "category": "images",
+      "mime": "image/jpeg",
+      "bytes": 215037
+    },
+    {
+      "url": "https://static.wixstatic.com/media/6d8832_7c54bf6d491741c6bc4e94f7fa0f6aa5~mv2.jpg/v1/fill/w_292,h_164,fp_0.50_0.50,q_90,enc_avif,quality_auto/6d8832_7c54bf6d491741c6bc4e94f7fa0f6aa5~mv2.jpg",
+      "local": "assets/images/6d8832_7c54bf6d491741c6bc4e94f7fa0f6aa5_mv2_a803884a21.jpg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 4162
+    },
+    {
+      "url": "https://static.wixstatic.com/media/6d8832_7c54bf6d491741c6bc4e94f7fa0f6aa5~mv2.jpg/v1/fill/w_1168,h_656,fp_0.50_0.50,q_90,enc_avif,quality_auto/6d8832_7c54bf6d491741c6bc4e94f7fa0f6aa5~mv2.jpg",
+      "local": "assets/images/6d8832_7c54bf6d491741c6bc4e94f7fa0f6aa5_mv2_bd09c90c27.jpg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 880
+    },
+    {
+      "url": "https://static.wixstatic.com/media/6d8832_7c54bf6d491741c6bc4e94f7fa0f6aa5~mv2.jpg/v1/fill/w_292,h_164,fp_0.50_0.50,q_90,enc_avif,quality_auto/6d8832_7c54bf6d491741c6bc4e94f7fa0f6aa5~mv2.webp",
+      "local": "assets/images/6d8832_7c54bf6d491741c6bc4e94f7fa0f6aa5_mv2_aca078b15d.webp",
+      "category": "images",
+      "mime": "image/jpeg",
+      "bytes": 6514
+    },
+    {
+      "url": "https://static.wixstatic.com/media/6d8832_7c54bf6d491741c6bc4e94f7fa0f6aa5~mv2.jpg/v1/fill/w_1168,h_656,fp_0.50_0.50,q_90,enc_avif,quality_auto/6d8832_7c54bf6d491741c6bc4e94f7fa0f6aa5~mv2.webp",
+      "local": "assets/images/6d8832_7c54bf6d491741c6bc4e94f7fa0f6aa5_mv2_3fdb738298.webp",
+      "category": "images",
+      "mime": "image/jpeg",
+      "bytes": 55552
+    },
+    {
+      "url": "https://static.wixstatic.com/media/6d8832_cb56c361492540909b883d02d6ae63f9~mv2.jpg/v1/fill/w_292,h_164,fp_0.50_0.50,q_90,enc_avif,quality_auto/6d8832_cb56c361492540909b883d02d6ae63f9~mv2.jpg",
+      "local": "assets/images/6d8832_cb56c361492540909b883d02d6ae63f9_mv2_83315111a5.jpg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 3964
+    },
+    {
+      "url": "https://static.wixstatic.com/media/6d8832_cb56c361492540909b883d02d6ae63f9~mv2.jpg/v1/fill/w_1168,h_656,fp_0.50_0.50,q_90,enc_avif,quality_auto/6d8832_cb56c361492540909b883d02d6ae63f9~mv2.jpg",
+      "local": "assets/images/6d8832_cb56c361492540909b883d02d6ae63f9_mv2_dfb6233d7c.jpg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 741
+    },
+    {
+      "url": "https://static.wixstatic.com/media/6d8832_cb56c361492540909b883d02d6ae63f9~mv2.jpg/v1/fill/w_292,h_164,fp_0.50_0.50,q_90,enc_avif,quality_auto/6d8832_cb56c361492540909b883d02d6ae63f9~mv2.webp",
+      "local": "assets/images/6d8832_cb56c361492540909b883d02d6ae63f9_mv2_9b5c143310.webp",
+      "category": "images",
+      "mime": "image/jpeg",
+      "bytes": 6176
+    },
+    {
+      "url": "https://static.wixstatic.com/media/6d8832_cb56c361492540909b883d02d6ae63f9~mv2.jpg/v1/fill/w_1168,h_656,fp_0.50_0.50,q_90,enc_avif,quality_auto/6d8832_cb56c361492540909b883d02d6ae63f9~mv2.webp",
+      "local": "assets/images/6d8832_cb56c361492540909b883d02d6ae63f9_mv2_418e738512.webp",
+      "category": "images",
+      "mime": "image/jpeg",
+      "bytes": 80120
+    },
+    {
+      "url": "https://static.wixstatic.com/media/6d8832_88645c6e7a4842fb83755c22e5f62165~mv2.jpg/v1/fill/w_291,h_164,fp_0.50_0.50,q_90,enc_avif,quality_auto/6d8832_88645c6e7a4842fb83755c22e5f62165~mv2.jpg",
+      "local": "assets/images/6d8832_88645c6e7a4842fb83755c22e5f62165_mv2_aa4c8cf587.jpg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 5556
+    },
+    {
+      "url": "https://static.wixstatic.com/media/6d8832_88645c6e7a4842fb83755c22e5f62165~mv2.jpg/v1/fill/w_1164,h_656,fp_0.50_0.50,q_90,enc_avif,quality_auto/6d8832_88645c6e7a4842fb83755c22e5f62165~mv2.jpg",
+      "local": "assets/images/6d8832_88645c6e7a4842fb83755c22e5f62165_mv2_2d30efcc02.jpg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 817
+    },
+    {
+      "url": "https://static.wixstatic.com/media/6d8832_88645c6e7a4842fb83755c22e5f62165~mv2.jpg/v1/fill/w_291,h_164,fp_0.50_0.50,q_90,enc_avif,quality_auto/6d8832_88645c6e7a4842fb83755c22e5f62165~mv2.webp",
+      "local": "assets/images/6d8832_88645c6e7a4842fb83755c22e5f62165_mv2_636dd70c4e.webp",
+      "category": "images",
+      "mime": "image/jpeg",
+      "bytes": 8051
+    },
+    {
+      "url": "https://static.wixstatic.com/media/6d8832_88645c6e7a4842fb83755c22e5f62165~mv2.jpg/v1/fill/w_1164,h_656,fp_0.50_0.50,q_90,enc_avif,quality_auto/6d8832_88645c6e7a4842fb83755c22e5f62165~mv2.webp",
+      "local": "assets/images/6d8832_88645c6e7a4842fb83755c22e5f62165_mv2_585021a134.webp",
+      "category": "images",
+      "mime": "image/jpeg",
+      "bytes": 66079
+    },
+    {
+      "url": "https://static.wixstatic.com/media/c22c23_ef89473ffec24b06969719de97879dab~mv2_d_5994_3978_s_4_2.jpeg/v1/fill/w_1407,h_748,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/c22c23_ef89473ffec24b06969719de97879dab~mv2_d_5994_3978_s_4_2.jpeg",
+      "local": "assets/images/c22c23_ef89473ffec24b06969719de97879dab_mv2_d_5994_3978_s_4_2_5a3a55d141.jpeg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 498968
+    },
+    {
+      "url": "https://static.wixstatic.com/media/0fdef751204647a3bbd7eaa2827ed4f9.png/v1/fill/w_23,h_23,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0fdef751204647a3bbd7eaa2827ed4f9.png",
+      "local": "assets/images/0fdef751204647a3bbd7eaa2827ed4f9_62481cb799.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 589
+    },
+    {
+      "url": "https://static.wixstatic.com/media/0fdef751204647a3bbd7eaa2827ed4f9.png/v1/fill/w_46,h_46,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0fdef751204647a3bbd7eaa2827ed4f9.png",
+      "local": "assets/images/0fdef751204647a3bbd7eaa2827ed4f9_178d6b3c4d.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 589
+    },
+    {
+      "url": "https://static.wixstatic.com/media/6ea5b4a88f0b4f91945b40499aa0af00.png/v1/fill/w_23,h_23,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/6ea5b4a88f0b4f91945b40499aa0af00.png",
+      "local": "assets/images/6ea5b4a88f0b4f91945b40499aa0af00_9c2788b451.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 687
+    },
+    {
+      "url": "https://static.wixstatic.com/media/6ea5b4a88f0b4f91945b40499aa0af00.png/v1/fill/w_46,h_46,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/6ea5b4a88f0b4f91945b40499aa0af00.png",
+      "local": "assets/images/6ea5b4a88f0b4f91945b40499aa0af00_26e4b0d597.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 687
+    },
+    {
+      "url": "https://static.wixstatic.com/media/c7d035ba85f6486680c2facedecdcf4d.png/v1/fill/w_23,h_23,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/c7d035ba85f6486680c2facedecdcf4d.png",
+      "local": "assets/images/c7d035ba85f6486680c2facedecdcf4d_ffdd70206b.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 646
+    },
+    {
+      "url": "https://static.wixstatic.com/media/c7d035ba85f6486680c2facedecdcf4d.png/v1/fill/w_46,h_46,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/c7d035ba85f6486680c2facedecdcf4d.png",
+      "local": "assets/images/c7d035ba85f6486680c2facedecdcf4d_26fdbeb6d7.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 646
+    },
+    {
+      "url": "https://static.wixstatic.com/media/78aa2057f0cb42fbbaffcbc36280a64a.png/v1/fill/w_23,h_23,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/78aa2057f0cb42fbbaffcbc36280a64a.png",
+      "local": "assets/images/78aa2057f0cb42fbbaffcbc36280a64a_adefc575f2.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 623
+    },
+    {
+      "url": "https://static.wixstatic.com/media/78aa2057f0cb42fbbaffcbc36280a64a.png/v1/fill/w_46,h_46,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/78aa2057f0cb42fbbaffcbc36280a64a.png",
+      "local": "assets/images/78aa2057f0cb42fbbaffcbc36280a64a_2e4b7d3d16.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 623
+    },
+    {
+      "url": "https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/7e90123f-e4a7-4689-b41f-6bcfe331c00a.eot?",
+      "local": "assets/fonts/7e90123f-e4a7-4689-b41f-6bcfe331c00a_37a57a912b.eot",
+      "category": "fonts",
+      "mime": "application/vnd.ms-fontobject",
+      "bytes": 22149
+    },
+    {
+      "url": "https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/64017d81-9430-4cba-8219-8f5cc28b923e.woff2",
+      "local": "assets/fonts/64017d81-9430-4cba-8219-8f5cc28b923e_01639cdac2.woff2",
+      "category": "fonts",
+      "mime": "application/octet-stream",
+      "bytes": 23088
+    },
+    {
+      "url": "https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/e56ecb6d-da41-4bd9-982d-2d295bec9ab0.woff",
+      "local": "assets/fonts/e56ecb6d-da41-4bd9-982d-2d295bec9ab0_fba4bf2031.woff",
+      "category": "fonts",
+      "mime": "application/x-font-woff",
+      "bytes": 30095
+    },
+    {
+      "url": "https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/2aff4f81-3e97-4a83-9e6c-45e33c024796.ttf",
+      "local": "assets/fonts/2aff4f81-3e97-4a83-9e6c-45e33c024796_8fc67743cb.ttf",
+      "category": "fonts",
+      "mime": "application/x-font-ttf",
+      "bytes": 64276
+    },
+    {
+      "url": "https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/ab9cd062-380f-4b53-b1a7-c0bec7402235.svg",
+      "local": "assets/images/ab9cd062-380f-4b53-b1a7-c0bec7402235_a1545f135e.svg",
+      "category": "images",
+      "mime": "image/svg+xml",
+      "bytes": 64961
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w10-light.woff2",
+      "local": "assets/fonts/din-next-w10-light_db3db89192.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 15504
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w02-light.woff2",
+      "local": "assets/fonts/din-next-w02-light_6422d8a0d0.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 37024
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w01-light.woff2",
+      "local": "assets/fonts/din-next-w01-light_38f1d0610c.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 20988
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/core-js-bundle@3.2.1/minified.js",
+      "local": "assets/js/minified_cc5dbdbdf6.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 137782
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/focus-within-polyfill@5.0.9/dist/focus-within-polyfill.js",
+      "local": "assets/js/focus-within-polyfill_7429be62a7.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1175
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/requirejs-bolt@2.3.6/requirejs.min.js",
+      "local": "assets/js/requirejs.min_55885c2319.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 17493
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/wix-image-kit.d06a1127.bundle.min.js",
+      "local": "assets/js/wix-image-kit.d06a1127.bundle.min_f9a78792f2.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 26322
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/htmlparser2-xml.4f17eecc.bundle.min.js",
+      "local": "assets/js/htmlparser2-xml.4f17eecc.bundle.min_131b355975.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 50720
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[SkipToContentButton].d886e6d7.bundle.min.js",
+      "local": "assets/js/rb_wixui.thunderbolt_SkipToContentButton_.d886e6d7.bundle.min_9db4d34a75.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 2151
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt_bootstrap-responsive.1bfc1371.bundle.min.js",
+      "local": "assets/js/rb_wixui.thunderbolt_bootstrap-responsive.1bfc1371.bundle.min_9f3b78da46.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 24564
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[FiveGridLine_SolidLine].76fd72e8.bundle.min.js",
+      "local": "assets/js/rb_wixui.thunderbolt_FiveGridLine_SolidLine_.76fd72e8.bundle.min_a797b27342.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 2730
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[MeshGroup].012bc6b1.bundle.min.js",
+      "local": "assets/js/rb_wixui.thunderbolt_MeshGroup_.012bc6b1.bundle.min_3dd5d94fd9.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 3224
+    },
+    {
+      "url": "https://static.parastorage.com/services/ecom-platform-cart-icon/1.2421.0/CartIconViewerWidgetNoCss.bundle.min.js",
+      "local": "assets/js/CartIconViewerWidgetNoCss.bundle.min_0ef1e0cd90.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 166634
+    },
+    {
+      "url": "https://static.parastorage.com/services/wixstores-client-product-widget/1.2058.0/productWidgetNoCss.bundle.min.js",
+      "local": "assets/js/productWidgetNoCss.bundle.min_d3b1962336.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 138732
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-vod-widget/1.4657.0/WixVideoViewerWidgetNoCss.bundle.min.js",
+      "local": "assets/js/WixVideoViewerWidgetNoCss.bundle.min_5aa9b5dbd7.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1136590
+    },
+    {
+      "url": "https://static.parastorage.com/services/communities-blog-ooi/1.3368.0/PostListViewerWidgetNoCss.bundle.min.js",
+      "local": "assets/js/PostListViewerWidgetNoCss.bundle.min_c0d729141c.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 817992
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt_bootstrap.da83ff7e.bundle.min.js",
+      "local": "assets/js/rb_wixui.thunderbolt_bootstrap.da83ff7e.bundle.min_47471e51c3.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 43960
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt_bootstrap-classic.d170fd1f.bundle.min.js",
+      "local": "assets/js/rb_wixui.thunderbolt_bootstrap-classic.d170fd1f.bundle.min_bac6266ca3.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 43243
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[StripColumnsContainer_Default].119e0578.bundle.min.js",
+      "local": "assets/js/rb_wixui.thunderbolt_StripColumnsContainer_Default_.119e0578.bundle.mi_28352d75af.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 13003
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[LoginSocialBar].9a9f19e5.bundle.min.js",
+      "local": "assets/js/rb_wixui.thunderbolt_LoginSocialBar_.9a9f19e5.bundle.min_fa6f118bce.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 58524
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[ClassicSection].95b2f0f2.bundle.min.js",
+      "local": "assets/js/rb_wixui.thunderbolt_ClassicSection_.95b2f0f2.bundle.min_7ec0e5ce9c.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 16267
+    },
+    {
+      "url": "https://browser.sentry-cdn.com/7.120.3/modulemetadata.es5.min.js",
+      "local": "assets/js/modulemetadata.es5.min_7867333024.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 3326
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/react@18.3.1/umd/react.production.min.js",
+      "local": "assets/js/react.production.min_a3d104366c.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 10782
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/react-dom@18.3.1/umd/react-dom.production.min.js",
+      "local": "assets/js/react-dom.production.min_23f284a3a3.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 132102
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/lodash@4.18.1/lodash.min.js",
+      "local": "assets/js/lodash.min_4e41d11c55.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 73369
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/thunderbolt-commons.cd47ac5f.bundle.min.js",
+      "local": "assets/js/thunderbolt-commons.cd47ac5f.bundle.min_78132d45d2.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 157434
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/main.34f6665a.bundle.min.js",
+      "local": "assets/js/main.34f6665a.bundle.min_d65dae7f0c.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 230264
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/main.renderer.b325a058.bundle.min.js",
+      "local": "assets/js/main.renderer.b325a058.bundle.min_9f8dedd221.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 150
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/browser-deprecation.bundle.es5.js",
+      "local": "assets/js/browser-deprecation.bundle.es5_80b3562822.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 3828
+    },
+    {
+      "url": "https://static.parastorage.com/services/tag-manager-client/1.1075.0/siteTags.bundle.min.js",
+      "local": "assets/js/siteTags.bundle.min_a2c4f022a5.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 9417
+    },
+    {
+      "url": "https://static.wixstatic.com/media/c22c23_5f91920a269b4a9c85b7da1f0f822d29~mv2_d_3856_2574_s_4_2.jpg/v1/fill/w_82,h_54,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/c22c23_5f91920a269b4a9c85b7da1f0f822d29~mv2_d_3856_2574_s_4_2.jpg",
+      "local": "assets/images/c22c23_5f91920a269b4a9c85b7da1f0f822d29_mv2_d_3856_2574_s_4_2_915da0a4ac.jpg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 1142
+    },
+    {
+      "url": "https://static.wixstatic.com/media/c22c23_53e365c5481844298a6c69670ae11421~mv2_d_5455_3638_s_4_2.jpg/v1/fill/w_82,h_55,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/c22c23_53e365c5481844298a6c69670ae11421~mv2_d_5455_3638_s_4_2.jpg",
+      "local": "assets/images/c22c23_53e365c5481844298a6c69670ae11421_mv2_d_5455_3638_s_4_2_544253c864.jpg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 906
+    },
+    {
+      "url": "https://static.wixstatic.com/media/c22c23_567b9c7bdc9a453585688e9bc0c98433~mv2_d_3888_2592_s_4_2.jpeg/v1/fill/w_82,h_55,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/c22c23_567b9c7bdc9a453585688e9bc0c98433~mv2_d_3888_2592_s_4_2.jpeg",
+      "local": "assets/images/c22c23_567b9c7bdc9a453585688e9bc0c98433_mv2_d_3888_2592_s_4_2_e04c223ff2.jpeg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 1144
+    },
+    {
+      "url": "https://static.wixstatic.com/media/c22c23_3b21abb2d4d44bedb8c5561823c9c51e~mv2_d_6019_4019_s_4_2.png/v1/fit/w_6019,h_4019,q_90/file.png/v1/fill/w_566,h_583,al_c,usm_0.66_1.00_0.01/v1/fit/w_6019,h_4019,q_90/file.png",
+      "local": "assets/images/file_83a1f926f6.png",
+      "category": "images",
+      "mime": "image/png",
+      "bytes": 166317
+    },
+    {
+      "url": "https://static.wixstatic.com/media/6d8832_7c54bf6d491741c6bc4e94f7fa0f6aa5~mv2.jpg/v1/fill/w_445,h_250,fp_0.50_0.50,q_30,blur_30,enc_avif,quality_auto/6d8832_7c54bf6d491741c6bc4e94f7fa0f6aa5~mv2.jpg",
+      "local": "assets/images/6d8832_7c54bf6d491741c6bc4e94f7fa0f6aa5_mv2_0231f88a11.jpg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 880
+    },
+    {
+      "url": "https://static.wixstatic.com/media/6d8832_cb56c361492540909b883d02d6ae63f9~mv2.jpg/v1/fill/w_445,h_250,fp_0.50_0.50,q_30,blur_30,enc_avif,quality_auto/6d8832_cb56c361492540909b883d02d6ae63f9~mv2.jpg",
+      "local": "assets/images/6d8832_cb56c361492540909b883d02d6ae63f9_mv2_d767a29227.jpg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 741
+    },
+    {
+      "url": "https://static.wixstatic.com/media/6d8832_88645c6e7a4842fb83755c22e5f62165~mv2.jpg/v1/fill/w_444,h_250,fp_0.50_0.50,q_30,blur_30,enc_avif,quality_auto/6d8832_88645c6e7a4842fb83755c22e5f62165~mv2.jpg",
+      "local": "assets/images/6d8832_88645c6e7a4842fb83755c22e5f62165_mv2_e48c01651a.jpg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 817
+    },
+    {
+      "url": "https://static.wixstatic.com/media/c22c23_ef89473ffec24b06969719de97879dab~mv2_d_5994_3978_s_4_2.jpeg/v1/fill/w_87,h_58,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/c22c23_ef89473ffec24b06969719de97879dab~mv2_d_5994_3978_s_4_2.jpeg",
+      "local": "assets/images/c22c23_ef89473ffec24b06969719de97879dab_mv2_d_5994_3978_s_4_2_91aa3d6716.jpeg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 896
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/thunderbolt-components-registry.bbe0388d.chunk.min.js",
+      "local": "assets/js/thunderbolt-components-registry.bbe0388d.chunk.min_1f9d512658.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 24328
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_2.c60c4730.chunk.min.js",
+      "local": "assets/js/group_2.c60c4730.chunk.min_0008867856.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 54479
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/assetsLoader.6bffd761.chunk.min.js",
+      "local": "assets/js/assetsLoader.6bffd761.chunk.min_75f038062a.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 6952
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_3.dd33e4a3.chunk.min.js",
+      "local": "assets/js/group_3.dd33e4a3.chunk.min_14b752ab76.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 72301
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/businessLogger.377a70ea.chunk.min.js",
+      "local": "assets/js/businessLogger.377a70ea.chunk.min_dcc6f7e695.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 544
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/consentPolicy.e91bc7e5.chunk.min.js",
+      "local": "assets/js/consentPolicy.e91bc7e5.chunk.min_3a771b903d.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 541
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/domSelectors.1772351a.chunk.min.js",
+      "local": "assets/js/domSelectors.1772351a.chunk.min_080016be64.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1468
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_7.9cd3d937.chunk.min.js",
+      "local": "assets/js/group_7.9cd3d937.chunk.min_a01ff5e23d.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 17180
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/ooi.35dd0965.chunk.min.js",
+      "local": "assets/js/ooi.35dd0965.chunk.min_270c03f831.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 450
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/protectedPages.686e2c1a.chunk.min.js",
+      "local": "assets/js/protectedPages.686e2c1a.chunk.min_d1c3c190e4.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 5320
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/renderer.e30669d5.chunk.min.js",
+      "local": "assets/js/renderer.e30669d5.chunk.min_10a199c73f.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 13152
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_4.e486b681.chunk.min.js",
+      "local": "assets/js/group_4.e486b681.chunk.min_c5ad2bd4dd.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 40142
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/router.7550ec16.chunk.min.js",
+      "local": "assets/js/router.7550ec16.chunk.min_3cc4078a3d.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 2163
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/stores.271cca5b.chunk.min.js",
+      "local": "assets/js/stores.271cca5b.chunk.min_f25e93eeb4.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 6717
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/usedPlatformApis.2fac58dc.chunk.min.js",
+      "local": "assets/js/usedPlatformApis.2fac58dc.chunk.min_f79819c44e.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 692
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/warmupData.8df801a8.chunk.min.js",
+      "local": "assets/js/warmupData.8df801a8.chunk.min_844a47dee8.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 379
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/componentsLoader.037bc6b5.chunk.min.js",
+      "local": "assets/js/componentsLoader.037bc6b5.chunk.min_8ee9bf1d4a.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 544
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/accessibilityBrowserZoom.69ca8cc9.chunk.min.js",
+      "local": "assets/js/accessibilityBrowserZoom.69ca8cc9.chunk.min_f4f2cd8be8.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 7353
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/appMonitoring.990fa541.chunk.min.js",
+      "local": "assets/js/appMonitoring.990fa541.chunk.min_f81cfaf0fd.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 21016
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_5.79994512.chunk.min.js",
+      "local": "assets/js/group_5.79994512.chunk.min_4dfd503c22.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 37977
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/contentReflow.3a7544b6.chunk.min.js",
+      "local": "assets/js/contentReflow.3a7544b6.chunk.min_e377cb8e3c.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1832
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/cyclicTabbing.fb257bad.chunk.min.js",
+      "local": "assets/js/cyclicTabbing.fb257bad.chunk.min_fde3588f5e.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 768
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/domStore.14823c1f.chunk.min.js",
+      "local": "assets/js/domStore.14823c1f.chunk.min_30a82eab80.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 32166
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_38.2fb20b49.chunk.min.js",
+      "local": "assets/js/group_38.2fb20b49.chunk.min_551b720af0.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 4886
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/dynamicPages.4ff4e6f5.chunk.min.js",
+      "local": "assets/js/dynamicPages.4ff4e6f5.chunk.min_a93807886d.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 348
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_45.c1314395.chunk.min.js",
+      "local": "assets/js/group_45.c1314395.chunk.min_65fd7fb1b2.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 828
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/environmentWixCodeSdk.566c4d0f.chunk.min.js",
+      "local": "assets/js/environmentWixCodeSdk.566c4d0f.chunk.min_a526118280.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 504
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/environment.caa69c37.chunk.min.js",
+      "local": "assets/js/environment.caa69c37.chunk.min_41eb37e520.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 537
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/externalServices.a9aa058b.chunk.min.js",
+      "local": "assets/js/externalServices.a9aa058b.chunk.min_a30c9d0bbc.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 2643
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_20.6f996b60.chunk.min.js",
+      "local": "assets/js/group_20.6f996b60.chunk.min_024adf56f3.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 8667
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/popups.601233da.chunk.min.js",
+      "local": "assets/js/popups.601233da.chunk.min_5c4573a597.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1389
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/tslib.inline.0a404b36.chunk.min.js",
+      "local": "assets/js/tslib.inline.0a404b36.chunk.min_484d09994c.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 11257
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/mpaNavigation.bd7e02b4.chunk.min.js",
+      "local": "assets/js/mpaNavigation.bd7e02b4.chunk.min_73339b8202.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 7514
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/panorama.a27650b3.chunk.min.js",
+      "local": "assets/js/panorama.a27650b3.chunk.min_9dd4c44bf0.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1021
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/routerFetch.0667279b.chunk.min.js",
+      "local": "assets/js/routerFetch.0667279b.chunk.min_0601363c48.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 48844
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_6.5f7b0030.chunk.min.js",
+      "local": "assets/js/group_6.5f7b0030.chunk.min_e973b170a3.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 252706
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/siteMembersWixCodeSdk.143b2c98.chunk.min.js",
+      "local": "assets/js/siteMembersWixCodeSdk.143b2c98.chunk.min_7b4bfc8967.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 32415
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_9.f1ec97ea.chunk.min.js",
+      "local": "assets/js/group_9.f1ec97ea.chunk.min_a4169fe84a.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 63691
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/siteMembers.b1553e13.chunk.min.js",
+      "local": "assets/js/siteMembers.b1553e13.chunk.min_a0f7d2cb76.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 68666
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/siteScrollBlocker.0d237009.chunk.min.js",
+      "local": "assets/js/siteScrollBlocker.0d237009.chunk.min_8ebe88c6dc.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 481
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/speculationRules.59e08197.chunk.min.js",
+      "local": "assets/js/speculationRules.59e08197.chunk.min_3d37f792f5.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1818
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/ssrCache.f7fb72e6.chunk.min.js",
+      "local": "assets/js/ssrCache.f7fb72e6.chunk.min_9f70493d63.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1971
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_22.b6fd6609.chunk.min.js",
+      "local": "assets/js/group_22.b6fd6609.chunk.min_5fa3754fc9.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 2552
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/platform.a007cd91.chunk.min.js",
+      "local": "assets/js/platform.a007cd91.chunk.min_550c4637c9.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 7408
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/reporter-api.9a0bba7d.chunk.min.js",
+      "local": "assets/js/reporter-api.9a0bba7d.chunk.min_6f96402fa4.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 37313
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_0.b58e75e0.chunk.min.js",
+      "local": "assets/js/group_0.b58e75e0.chunk.min_64e279ac0b.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1132
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/TPABaseComponent.fa382800.chunk.min.js",
+      "local": "assets/js/TPABaseComponent.fa382800.chunk.min_c7465491b1.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 5020
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/accessibility.e4888b8e.chunk.min.js",
+      "local": "assets/js/accessibility.e4888b8e.chunk.min_b6db17ad78.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1124
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_14.a7e0cdf0.chunk.min.js",
+      "local": "assets/js/group_14.a7e0cdf0.chunk.min_6bdaeac9ba.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 3464
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/animations.5f622044.chunk.min.js",
+      "local": "assets/js/animations.5f622044.chunk.min_559e33b2e0.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 15633
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/animationsWixCodeSdk.9f05a568.chunk.min.js",
+      "local": "assets/js/animationsWixCodeSdk.9f05a568.chunk.min_0d059ea5d1.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1008
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_24.5677d2a9.chunk.min.js",
+      "local": "assets/js/group_24.5677d2a9.chunk.min_5ef39743f4.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 3379
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/pageAnchors.c566b640.chunk.min.js",
+      "local": "assets/js/pageAnchors.c566b640.chunk.min_476dd84a46.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 463
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/imagePlaceholder.cfcbba70.chunk.min.js",
+      "local": "assets/js/imagePlaceholder.cfcbba70.chunk.min_512459d8e5.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 755
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/platformPubsub.d41c28b7.chunk.min.js",
+      "local": "assets/js/platformPubsub.d41c28b7.chunk.min_7b370f03f4.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 2024
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/navigation.fd6a4352.chunk.min.js",
+      "local": "assets/js/navigation.fd6a4352.chunk.min_702f06d64c.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1387
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/scrollToAnchor.a3fa83b7.chunk.min.js",
+      "local": "assets/js/scrollToAnchor.a3fa83b7.chunk.min_6ee9df3b9b.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 3543
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/windowScroll.94e57fc8.chunk.min.js",
+      "local": "assets/js/windowScroll.94e57fc8.chunk.min_b1199f81a0.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 464
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_8.551b56fc.chunk.min.js",
+      "local": "assets/js/group_8.551b56fc.chunk.min_3816f3a49e.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 57742
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/tpa.727b7948.chunk.min.js",
+      "local": "assets/js/tpa.727b7948.chunk.min_f7478563b8.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 7256
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_27.c4c38b3c.chunk.min.js",
+      "local": "assets/js/group_27.c4c38b3c.chunk.min_9df6e95525.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 742
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_28.517aa7aa.chunk.min.js",
+      "local": "assets/js/group_28.517aa7aa.chunk.min_9b44f14b44.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 677
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/mobileFullScreen.26016b15.chunk.min.js",
+      "local": "assets/js/mobileFullScreen.26016b15.chunk.min_9da32bb17b.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 911
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/motion.c8984600.chunk.min.js",
+      "local": "assets/js/motion.c8984600.chunk.min_7d2a0efac2.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 139398
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/environmentService.28f65978.chunk.min.js",
+      "local": "assets/js/environmentService.28f65978.chunk.min_11be74d283.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 2942
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_11.eeaeabf5.chunk.min.js",
+      "local": "assets/js/group_11.eeaeabf5.chunk.min_8c1f738e71.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1079
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_32.87a52be9.chunk.min.js",
+      "local": "assets/js/group_32.87a52be9.chunk.min_aeacd11ca4.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 4221
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_23.7ae110ca.chunk.min.js",
+      "local": "assets/js/group_23.7ae110ca.chunk.min_1c6c9b9aaa.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 3880
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_30.3f1bd6a0.chunk.min.js",
+      "local": "assets/js/group_30.3f1bd6a0.chunk.min_ea934e8e3c.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 12268
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/triggersAndReactions.9eecfa2f.chunk.min.js",
+      "local": "assets/js/triggersAndReactions.9eecfa2f.chunk.min_cdd63c63f2.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1272
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/seo-api.1430007a.chunk.min.js",
+      "local": "assets/js/seo-api.1430007a.chunk.min_cf34c81244.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 94467
+    },
+    {
+      "url": "https://static.wixstatic.com/media/c22c23_3b21abb2d4d44bedb8c5561823c9c51e~mv2_d_6019_4019_s_4_2.png/v1/fit/w_6019,h_4019,q_90/file.png/v1/fill/w_566,h_543,al_c,usm_0.66_1.00_0.01/v1/fit/w_6019,h_4019,q_90/file.png",
+      "local": "assets/images/file_6a731ddc16.png",
+      "category": "images",
+      "mime": "image/png",
+      "bytes": 148974
+    }
+  ],
+  "failed": [],
+  "removed_trackers": [],
+  "removed_inline_css_locators": [
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/main.744ea815.min.css",
+      "reason": "stylesheet content is already embedded in this style element"
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/main.renderer.d1b87f2e.min.css",
+      "reason": "stylesheet content is already embedded in this style element"
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt_bootstrap.674e7dbc.min.css",
+      "reason": "stylesheet content is already embedded in this style element"
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[SkipToContentButton].c9649c22.min.css",
+      "reason": "stylesheet content is already embedded in this style element"
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt_bootstrap-classic.95bff5e0.min.css",
+      "reason": "stylesheet content is already embedded in this style element"
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[StripColumnsContainer_Default].228b4bbf.min.css",
+      "reason": "stylesheet content is already embedded in this style element"
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt_bootstrap-responsive.4e8a21db.min.css",
+      "reason": "stylesheet content is already embedded in this style element"
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[LoginSocialBar].4379a35f.min.css",
+      "reason": "stylesheet content is already embedded in this style element"
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[FiveGridLine_SolidLine].a3fea64c.min.css",
+      "reason": "stylesheet content is already embedded in this style element"
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[ClassicSection].698c66d5.min.css",
+      "reason": "stylesheet content is already embedded in this style element"
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/TPABaseComponent.88cd9698.chunk.min.css",
+      "reason": "stylesheet content is already embedded in this style element"
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_7.c472a333.chunk.min.css",
+      "reason": "stylesheet content is already embedded in this style element"
+    },
+    {
+      "url": "https://static.parastorage.com/services/ecom-platform-cart-icon/1.2421.0/CartIconViewerWidget.min.css",
+      "reason": "stylesheet content is already embedded in this style element"
+    },
+    {
+      "url": "https://static.parastorage.com/services/wixstores-client-product-widget/1.2058.0/productWidget.min.css",
+      "reason": "stylesheet content is already embedded in this style element"
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-vod-widget/1.4657.0/WixVideoViewerWidget.min.css",
+      "reason": "stylesheet content is already embedded in this style element"
+    },
+    {
+      "url": "https://static.parastorage.com/services/communities-blog-ooi/1.3368.0/PostListViewerWidget.min.css",
+      "reason": "stylesheet content is already embedded in this style element"
+    }
+  ],
+  "dependency_localization": {
+    "css_imports_and_urls_followed": true,
+    "javascript_static_and_dynamic_imports_followed": true,
+    "ordinary_navigation_urls_downloaded_as_assets": false
+  },
+  "validation_errors": [
+    "external iframe dependency (review; may be map/video/form content): https://engage.wixapps.net/chat-widget-server/renderChatWidget/index?pageId=masterPage&compId=comp-jqxkjfhf&viewerCompId=comp-jqxkjfhf&siteRevision=273&viewMode=site&deviceType=desktop&locale=en&tz=America%2FLos_Angeles&regionalLanguage=en&width=94&height=94&instance=HVFTmLyBSfUau9fKQA6ktm4lTQpjUglxeCCydJwYnno.eyJpbnN0YW5jZUlkIjoiYWQwNDUyMGYtMDA3Zi00MTk2LTk2ZjctN2MxOTUyMjY2ZjRmIiwiYXBwRGVmSWQiOiIxNDUxN2UxYS0zZmYwLWFmOTgtNDA4ZS0yYmQ2OTUzYzM2YTIiLCJtZXRhU2l0ZUlkIjoiNjA1OWEyMjQtYjNlNS00NjlkLWJkNDYtOTExYzk3NWY0NTFiIiwic2lnbkRhdGUiOiIyMDI2LTEwLTE3VDA4OjE2OjQzLjIyMloiLCJkZW1vTW9kZSI6dHJ1ZSwib3JpZ2luSW5zdGFuY2VJZCI6Ijg1YmJmYjVhLTFiNDAtNDRkMS04NTI5LTcyOWUyMjllMjEzNiIsImFpZCI6IjI5ZDMwZTEwLTE4YTgtNGFkOC1hYmY0LTUxNTE0MWZjNDM1MSIsImJpVG9rZW4iOiJjZDVkZjAyYi1iMzlhLTA3MGItMmJiMS1lZDA1YzU3OTJhNTQiLCJzaXRlT3duZXJJZCI6Ijg0NzcwZjY3LWVjYmQtNDRiNi1iMzVhLTU4NGYyZGMxNWFmMSIsInNpdGVJc1RlbXBsYXRlIjp0cnVlLCJicyI6IlhaWG9LLU4xdW1ENXlaX1U5VnNkZ251UzNpS21lU1ZBLVlPRFpiZVlCNW8iLCJzY2QiOiIyMDE5LTAxLTE1VDE0OjAzOjU1LjMyNloifQ&currency=USD&currentCurrency=USD&commonConfig=%7B%22brand%22%3A%22wix%22%2C%22host%22%3A%22VIEWER%22%2C%22bsi%22%3A%221707ec3a-1d04-43e3-8ab9-5276ce4bf37f%7C1%22%2C%22siteRevision%22%3A%22273%22%2C%22renderingFlow%22%3A%22NONE%22%2C%22language%22%3A%22en%22%2C%22locale%22%3A%22en-us%22%2C%22BSI%22%3A%221707ec3a-1d04-43e3-8ab9-5276ce4bf37f%7C1%22%7D&currentRoute=.%2F&consent-policy=%7B%22func%22%3A1%2C%22anl%22%3A1%2C%22adv%22%3A0%2C%22dt3%22%3A0%2C%22ess%22%3A1%7D&vsi=58a338c3-1293-4030-a2d3-1338f52c1ca9"
+  ],
+  "unresolved_external_dependencies": [
+    "external iframe dependency (review; may be map/video/form content): https://engage.wixapps.net/chat-widget-server/renderChatWidget/index?pageId=masterPage&compId=comp-jqxkjfhf&viewerCompId=comp-jqxkjfhf&siteRevision=273&viewMode=site&deviceType=desktop&locale=en&tz=America%2FLos_Angeles&regionalLanguage=en&width=94&height=94&instance=HVFTmLyBSfUau9fKQA6ktm4lTQpjUglxeCCydJwYnno.eyJpbnN0YW5jZUlkIjoiYWQwNDUyMGYtMDA3Zi00MTk2LTk2ZjctN2MxOTUyMjY2ZjRmIiwiYXBwRGVmSWQiOiIxNDUxN2UxYS0zZmYwLWFmOTgtNDA4ZS0yYmQ2OTUzYzM2YTIiLCJtZXRhU2l0ZUlkIjoiNjA1OWEyMjQtYjNlNS00NjlkLWJkNDYtOTExYzk3NWY0NTFiIiwic2lnbkRhdGUiOiIyMDI2LTEwLTE3VDA4OjE2OjQzLjIyMloiLCJkZW1vTW9kZSI6dHJ1ZSwib3JpZ2luSW5zdGFuY2VJZCI6Ijg1YmJmYjVhLTFiNDAtNDRkMS04NTI5LTcyOWUyMjllMjEzNiIsImFpZCI6IjI5ZDMwZTEwLTE4YTgtNGFkOC1hYmY0LTUxNTE0MWZjNDM1MSIsImJpVG9rZW4iOiJjZDVkZjAyYi1iMzlhLTA3MGItMmJiMS1lZDA1YzU3OTJhNTQiLCJzaXRlT3duZXJJZCI6Ijg0NzcwZjY3LWVjYmQtNDRiNi1iMzVhLTU4NGYyZGMxNWFmMSIsInNpdGVJc1RlbXBsYXRlIjp0cnVlLCJicyI6IlhaWG9LLU4xdW1ENXlaX1U5VnNkZ251UzNpS21lU1ZBLVlPRFpiZVlCNW8iLCJzY2QiOiIyMDE5LTAxLTE1VDE0OjAzOjU1LjMyNloifQ&currency=USD&currentCurrency=USD&commonConfig=%7B%22brand%22%3A%22wix%22%2C%22host%22%3A%22VIEWER%22%2C%22bsi%22%3A%221707ec3a-1d04-43e3-8ab9-5276ce4bf37f%7C1%22%2C%22siteRevision%22%3A%22273%22%2C%22renderingFlow%22%3A%22NONE%22%2C%22language%22%3A%22en%22%2C%22locale%22%3A%22en-us%22%2C%22BSI%22%3A%221707ec3a-1d04-43e3-8ab9-5276ce4bf37f%7C1%22%7D&currentRoute=.%2F&consent-policy=%7B%22func%22%3A1%2C%22anl%22%3A1%2C%22adv%22%3A0%2C%22dt3%22%3A0%2C%22ess%22%3A1%7D&vsi=58a338c3-1293-4030-a2d3-1338f52c1ca9"
+  ],
+  "remote_hosts_mentioned_in_local_js_for_review": [
+    "${a}.${n}",
+    "${e}",
+    "${e}.filesusr.com",
+    "${r}",
+    "${r}.${i}",
+    "${t}",
+    "${t}.${r}",
+    "04ac210d4a934172b7aead660647e5a0@sentry.io",
+    "133ee563b67f44cbbc509e14152b973f@sentry-next.wixpress.com",
+    "31e500c94d2042ff81a38a0e4a2873b7@sentry.io",
+    "337a342c302c4c0e8c26e425e74da4c1@sentry.io",
+    "44f49ac405574dfb9df693981a668c09@sentry.io",
+    "4dbead23671d4e308339cb3e26e20bb7@sentry.io",
+    "5605bf8f38c54260af44e1d7bc2450bd@sentry.io",
+    "5ce86095794d4b0dbded2351db71baf8@o37417.ingest.sentry.io",
+    "6b91522f8e31474a91d982a1066e7f8c@o37417.ingest.sentry.io",
+    "7a9383877d1648169973b9d6339b753b@o37417.ingest.sentry.io",
+    "8c4075d5481d476e945486754f783364@sentry.io",
+    "a",
+    "a#б",
+    "a15b644ebf243f0edfda94c3b7cdaf66@o37417.ingest.us.sentry.io",
+    "a@b",
+    "ad35e6e606da4e6ab90753238365334d@sentry.wixpress.com",
+    "api.whatsapp.com",
+    "apis.google.com",
+    "axios-http.com",
+    "baseurl",
+    "bo.wix.com",
+    "c4847d204c6e4c1aa7f9ff220369cee2@sentry.io",
+    "connect.facebook.net",
+    "dgs.wixapps.net",
+    "e851506caba54d6fa11e9a953b4a5d51@sentry-next.wixpress.com",
+    "editor.wixapps.net",
+    "embed.wix.com",
+    "f31bc3de5f7f4f5290342dccc141bf4d@sentry-next.wixpress.com",
+    "fb.me",
+    "feross.org",
+    "files.wix.com",
+    "frog.wix.com",
+    "frog.wix.com?${n.join(",
+    "github.com",
+    "googleads.g.doubleclick.net",
+    "greensock.com",
+    "images-${r}",
+    "images-vod.wixmp.com",
+    "jedwatson.github.io",
+    "localhost",
+    "manage.wix.com",
+    "maps.google.com",
+    "mock.wix.com",
+    "mths.be",
+    "npms.io",
+    "pages.parastorage.com",
+    "panorama.wixapps.net",
+    "pix.wix.com",
+    "platform.twitter.com",
+    "player.vimeo.com",
+    "pro-gallery.surge.sh?${t}",
+    "reactjs.org",
+    "redux.js.org",
+    "requirejs.org",
+    "rock.mit-license.org",
+    "sled.wix.dev",
+    "static.doubleclick.net",
+    "static.parastorage.com",
+    "static.wixstatic.com",
+    "twitter.com",
+    "unused.com",
+    "users.wix.com",
+    "vod-meta.editorx.com",
+    "vod-meta.wix.com",
+    "vod-server.wix.com",
+    "vod.editorx.com",
+    "vod.wix.com",
+    "www.facebook.com",
+    "www.google.com",
+    "www.pinterest.com",
+    "www.tumblr.com",
+    "www.wix.com",
+    "www.wixapis.com",
+    "www.youtube-nocookie.com",
+    "www.youtube.com",
+    "yoursitename.wixsite.com",
+    "тест"
+  ]
+}

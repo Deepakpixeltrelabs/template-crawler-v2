@@ -1,0 +1,2 @@
+"use strict";(("u">typeof self?self:this).webpackJsonp__wix_form_app=("u">typeof self?self:this).webpackJsonp__wix_form_app||[]).push([[637],{21428(e,p,t){t.r(p),t.d(p,{default:()=>r});var s=t(60751),f=t.n(s),l=t(16728),_=t(60908);let r=e=>{let{fieldType:p=l.bh.CHECKBOX_GROUP}=e;return f().createElement(_.h,{...e,fieldType:p})}}}]);
+//# sourceMappingURL=form-app-checkbox-group.chunk.min.js.map

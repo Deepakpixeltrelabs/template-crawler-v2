@@ -1,0 +1,26 @@
+STATUS: cleaned_with_review_items
+Model: C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\LLM\models\Qwen2.5-Coder-3B-Instruct-Q4_K_M.gguf
+Pipeline version: wix-static-extraction-v5-dependency-map
+Prompt: standalone_cleanup_prompt.txt (SHA-256 d5c52793be6ddab58564660e43d16702fc4f101f7caea6b20a1a9de6282e1308)
+Files reviewed: 0
+LLM requests: 0
+Unresolved active CSS/JS dependencies: 0
+Crawler asset download failures: 1
+LLM review skipped: No active external CSS/JavaScript imports remain after deterministic localization; navigation links and inert URL strings are not downloaded or rewritten as assets.
+LLM edits proposed: 0
+LLM edits applied: 0
+LLM edits rejected: 0
+Files with asset references localized: 75
+Deterministic removals: 215
+Remaining external URL references: 22
+Dependencies flagged for review: 0
+Changes applied: 290
+Static validation: REVIEW
+HTML page files: 1
+Iframe tags in index.html: 0
+Wix host references in site files: 1
+Responsive viewport present: True
+Missing local assets: 0
+Visible text retained: 97.08%
+Browser visual test performed: No
+Note: original source folder was not modified.

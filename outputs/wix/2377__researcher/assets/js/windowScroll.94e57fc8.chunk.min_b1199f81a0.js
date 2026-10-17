@@ -1,0 +1,2 @@
+"use strict";(self.webpackJsonp__wix_thunderbolt_app=self.webpackJsonp__wix_thunderbolt_app||[]).push([["1869"],{70803(t,e,a){a.d(e,{S:()=>p});let r=["iframe","input","select","textarea","button"],p=t=>{let e=t.tagName.toLowerCase(),a=t.getAttribute("href"),p=t.getAttribute("tabIndex");return r.includes(e)||"a"===e&&!!a||!!p&&"-1"!==p}}}]);
+//# sourceMappingURL=https://static.parastorage.com/services/wix-thunderbolt/dist/windowScroll.94e57fc8.chunk.min.js.map

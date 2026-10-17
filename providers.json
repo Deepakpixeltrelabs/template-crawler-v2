@@ -1,0 +1,64 @@
+[
+  {
+    "id": "wix",
+    "name": "Wix",
+    "script": "crawlers/wix_template_html_assets.py",
+    "description": "Opens each Wix template preview and saves it as HTML + assets.",
+    "url_required": false,
+    "allowed_hosts": [
+      "wix.com"
+    ],
+    "url_help": "Optional. A Wix template listing page, e.g. https://www.wix.com/website/templates/html/business. Empty = the 15 pages built into the crawler.",
+    "url_placeholder": "https://www.wix.com/website/templates/html/business"
+  },
+  {
+    "id": "webflow",
+    "name": "Webflow",
+    "script": "crawlers/webflow_template_crawler.py",
+    "description": "Opens a Webflow template's live preview and saves it as HTML + assets.",
+    "url_required": false,
+    "allowed_hosts": [
+      "webflow.com",
+      "webflow.io"
+    ],
+    "url_help": "Optional. Empty = all Webflow templates (https://webflow.com/templates/all). Or paste a category page, a template page (webflow.com/templates/html/<name>) or a <name>.webflow.io site, one per line.",
+    "url_placeholder": "https://webflow.com/templates/all"
+  },
+  {
+    "id": "envato",
+    "name": "Envato Elements",
+    "script": "crawlers/envato_elements_crawler.py",
+    "description": "Reads Envato Elements web templates, opens each one's Live preview (the author's demo site) and saves it as HTML + assets.",
+    "url_required": false,
+    "allowed_hosts": [
+      "elements.envato.com"
+    ],
+    "url_help": "Optional. Empty = https://elements.envato.com/web-templates (every page). Or paste another Envato Elements listing (e.g. .../web-templates/site-templates) or a single item page, one per line.",
+    "url_placeholder": "https://elements.envato.com/web-templates"
+  },
+  {
+    "id": "freewebsitetemplates",
+    "name": "Free Website Templates",
+    "script": "crawlers/freewebsitetemplates_crawler.py",
+    "description": "Reads freewebsitetemplates.com listing pages and saves each template's live preview as HTML + assets.",
+    "url_required": false,
+    "allowed_hosts": [
+      "freewebsitetemplates.com"
+    ],
+    "url_help": "Optional. Empty = https://freewebsitetemplates.com/ (all listing pages). Or paste a listing page (.../templates/page-2) or a template (.../preview/<name>/), one per line.",
+    "url_placeholder": "https://freewebsitetemplates.com/"
+  },
+  {
+    "id": "wpastra",
+    "name": "WP Astra",
+    "script": "crawlers/wpastra_crawler.py",
+    "description": "Reads WP Astra Starter Template listings and saves each template's live demo site as HTML + assets.",
+    "url_required": false,
+    "allowed_hosts": [
+      "wpastra.com",
+      "websitedemos.net"
+    ],
+    "url_help": "Optional. Empty = https://wpastra.com/website-templates/business/ (all pages). Or paste another category page, a template page (wpastra.com/templates/<name>/) or a websitedemos.net/<name> address, one per line.",
+    "url_placeholder": "https://wpastra.com/website-templates/business/"
+  }
+]

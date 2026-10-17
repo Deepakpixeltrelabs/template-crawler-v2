@@ -1,0 +1,9 @@
+0.00.009.579 I srv  llama_server: initializing ...
+0.00.436.499 I cmn  common_param: common_params_print_info: verbosity = 3 (adjust with the `-lv N` CLI arg)
+0.00.446.565 W srv  llama_server: security: no API key is set and CORS allows all origins (see https://github.com/ggml-org/llama.cpp/pull/25655)
+0.00.455.072 I srv    load_model: loading model 'C:\Users\Deepak\Downloads\Website_Crawler_Studio_Local_Recursive_Assets\Website_Crawler_Studio_Local\LLM\models\Qwen2.5-Coder-3B-Instruct-Q4_K_M.gguf'
+0.01.992.296 W load: control-looking token: 128247 '</s>' was not control-type; this is probably a bug in the model. its type will be overridden
+0.05.956.366 I cmn          init: llama threadpool init, n_threads = 2
+0.09.346.623 I srv    load_model: initializing, n_slots = 1, n_ctx_slot = 4096, kv_unified = 'false'
+0.09.491.098 I srv  llama_server: model loaded
+0.09.491.234 I srv  llama_server: listening on http://127.0.0.1:1237

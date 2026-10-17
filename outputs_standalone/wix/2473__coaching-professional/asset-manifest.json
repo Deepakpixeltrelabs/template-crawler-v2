@@ -1,0 +1,1405 @@
+{
+  "asset_count": 210,
+  "assets": [
+    {
+      "local": "assets/images/favicon_3fd805aa90.ico",
+      "category": "images",
+      "mime": "image/x-icon",
+      "bytes": 3477
+    },
+    {
+      "local": "assets/images/23fd2a2be53141ed810f4d3dcdcd01fa_aa452f9412.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 845
+    },
+    {
+      "local": "assets/images/23fd2a2be53141ed810f4d3dcdcd01fa_53ab22d2d5.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 845
+    },
+    {
+      "local": "assets/images/81af6121f84c41a5b4391d7d37fce12a_0705b8ba82.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 877
+    },
+    {
+      "local": "assets/images/81af6121f84c41a5b4391d7d37fce12a_c82bb19732.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 877
+    },
+    {
+      "local": "assets/images/01ab6619093f45388d66736ec22e5885_46233a43ec.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 967
+    },
+    {
+      "local": "assets/images/01ab6619093f45388d66736ec22e5885_8ea0f1ff36.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 967
+    },
+    {
+      "local": "assets/images/203dcdc2ac8b48de89313f90d2a4cda1_a478113392.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 788
+    },
+    {
+      "local": "assets/images/203dcdc2ac8b48de89313f90d2a4cda1_b02713ff21.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 788
+    },
+    {
+      "local": "assets/images/ea26fd_bb642f1520254d0ebe38dca05d63eb2e_mv2_d_3171_4665_s_4_2_16b87035e5.jpg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 30715
+    },
+    {
+      "local": "assets/images/ea26fd_3f6c7ae354ec42159962ab31dc78b57e_mv2_ccec04678b.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 1331
+    },
+    {
+      "local": "assets/images/ea26fd_3f6c7ae354ec42159962ab31dc78b57e_mv2_f3d3e5614e.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 1331
+    },
+    {
+      "local": "assets/images/ea26fd_ad16b68eb9904d139365e124f01b1e1c_mv2_57a6cd842b.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 3579
+    },
+    {
+      "local": "assets/images/ea26fd_ad16b68eb9904d139365e124f01b1e1c_mv2_cca769c4ad.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 3579
+    },
+    {
+      "local": "assets/images/ea26fd_a964a12592614328a29e543e380ee0f6_mv2_a7d1711079.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 1274
+    },
+    {
+      "local": "assets/images/ea26fd_a964a12592614328a29e543e380ee0f6_mv2_a912262894.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 1274
+    },
+    {
+      "local": "assets/images/ea26fd_da0e6f69df484aee931fcc7b21ade0b3_mv2_7132259389.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 3550
+    },
+    {
+      "local": "assets/images/ea26fd_da0e6f69df484aee931fcc7b21ade0b3_mv2_9dc5632bc9.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 3550
+    },
+    {
+      "local": "assets/images/ea26fd_a8a461055e7a46d6a84ff2b31bcd63b9_mv2_b4e3915509.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 1221
+    },
+    {
+      "local": "assets/images/ea26fd_a8a461055e7a46d6a84ff2b31bcd63b9_mv2_3af0fb951d.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 1221
+    },
+    {
+      "local": "assets/images/ea26fd_7b9282e666bb4496b5763a30f6edaab1_mv2_d9232b335e.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 3338
+    },
+    {
+      "local": "assets/images/ea26fd_7b9282e666bb4496b5763a30f6edaab1_mv2_d86bfef92d.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 3338
+    },
+    {
+      "local": "assets/images/ea26fd_ccf07f3dc56f424d87588259e4244276_mv2_9ab4f78071.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 1294
+    },
+    {
+      "local": "assets/images/ea26fd_ccf07f3dc56f424d87588259e4244276_mv2_64eccd616d.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 1294
+    },
+    {
+      "local": "assets/images/ea26fd_95d7a17d1cd4402bbef35de8965dec9b_mv2_f3933e2b5f.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 3582
+    },
+    {
+      "local": "assets/images/ea26fd_95d7a17d1cd4402bbef35de8965dec9b_mv2_569a96acb0.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 3582
+    },
+    {
+      "local": "assets/images/ea26fd_9394a746deb242fbb44a48f1f0d7b50a_mv2_5959a7aa9c.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 1308
+    },
+    {
+      "local": "assets/images/ea26fd_9394a746deb242fbb44a48f1f0d7b50a_mv2_0b6b116bc2.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 1308
+    },
+    {
+      "local": "assets/images/ea26fd_6816a64df8b243a59e18ba18c372e09c_mv2_80a492e7e1.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 3719
+    },
+    {
+      "local": "assets/images/ea26fd_6816a64df8b243a59e18ba18c372e09c_mv2_eda48a34b7.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 3719
+    },
+    {
+      "local": "assets/images/ea26fd_3d57017323c64f6cafd74dbc22aa20b1_mv2_d_6720_4480_s_4_2_ba0205fae2.jpg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 23130
+    },
+    {
+      "local": "assets/images/Couple_d6d3cd88c7.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 4855
+    },
+    {
+      "local": "assets/images/Couple_b07a3533dd.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 4855
+    },
+    {
+      "local": "assets/images/ea26fd_d9802aa326014f25875f4dca0f51deb3_mv2_d_8660_5773_s_4_2_7a895d6d57.jpg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 28787
+    },
+    {
+      "local": "assets/images/ea26fd_d9802aa326014f25875f4dca0f51deb3_mv2_d_8660_5773_s_4_2_b09cbf05cc.jpg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 56909
+    },
+    {
+      "local": "assets/images/ea26fd_d9802aa326014f25875f4dca0f51deb3_mv2_d_8660_5773_s_4_2_f2b710f9b2.jpg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 56909
+    },
+    {
+      "local": "assets/images/ea26fd_d9802aa326014f25875f4dca0f51deb3_mv2_d_8660_5773_s_4_2_e7684e4438.jpg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 56909
+    },
+    {
+      "local": "assets/images/ea26fd_d9802aa326014f25875f4dca0f51deb3_mv2_d_8660_5773_s_4_2_9fb8846593.jpg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 56909
+    },
+    {
+      "local": "assets/images/ea26fd_37f8f8b194214939937772d1168c1113_mv2_d_5499_3666_s_4_2_19ad657643.jpg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 27929
+    },
+    {
+      "local": "assets/images/ea26fd_37f8f8b194214939937772d1168c1113_mv2_d_5499_3666_s_4_2_9c74e942ed.jpg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 58297
+    },
+    {
+      "local": "assets/images/ea26fd_37f8f8b194214939937772d1168c1113_mv2_d_5499_3666_s_4_2_2e44178722.jpg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 58297
+    },
+    {
+      "local": "assets/images/ea26fd_37f8f8b194214939937772d1168c1113_mv2_d_5499_3666_s_4_2_2180b8404c.jpg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 58297
+    },
+    {
+      "local": "assets/images/ea26fd_37f8f8b194214939937772d1168c1113_mv2_d_5499_3666_s_4_2_6e21e6da8f.jpg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 58297
+    },
+    {
+      "local": "assets/images/ea26fd_8803a8d62b4a4eed9a5845b21e819e90_mv2_d_5250_3500_s_4_2_6c944eb83c.jpg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 19407
+    },
+    {
+      "local": "assets/images/ea26fd_8803a8d62b4a4eed9a5845b21e819e90_mv2_d_5250_3500_s_4_2_3935c5072f.jpg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 19407
+    },
+    {
+      "local": "assets/images/ea26fd_8803a8d62b4a4eed9a5845b21e819e90_mv2_d_5250_3500_s_4_2_145290dcfe.jpg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 19407
+    },
+    {
+      "local": "assets/images/ea26fd_8803a8d62b4a4eed9a5845b21e819e90_mv2_d_5250_3500_s_4_2_3492165c59.jpg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 19407
+    },
+    {
+      "local": "assets/images/ea26fd_8803a8d62b4a4eed9a5845b21e819e90_mv2_d_5250_3500_s_4_2_d018ce1b5c.jpg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 19407
+    },
+    {
+      "local": "assets/images/ea26fd_2be9b57fe2c54046bcd9553e9f07cb78_mv2_d_4013_6019_s_4_2_20349eeaba.jpg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 24172
+    },
+    {
+      "local": "assets/images/ea26fd_2be9b57fe2c54046bcd9553e9f07cb78_mv2_d_4013_6019_s_4_2_3702bfefb4.jpg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 24172
+    },
+    {
+      "local": "assets/images/ea26fd_2be9b57fe2c54046bcd9553e9f07cb78_mv2_d_4013_6019_s_4_2_4140142f05.jpg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 24172
+    },
+    {
+      "local": "assets/images/ea26fd_2be9b57fe2c54046bcd9553e9f07cb78_mv2_d_4013_6019_s_4_2_e4df409ee7.jpg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 24172
+    },
+    {
+      "local": "assets/images/ea26fd_2be9b57fe2c54046bcd9553e9f07cb78_mv2_d_4013_6019_s_4_2_a608a476dd.jpg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 24172
+    },
+    {
+      "local": "assets/fonts/If2RXTr6YS-zF4S-kcSWSVi_szLviuEHiC4Wl-8_0e6e6d061a.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 7636
+    },
+    {
+      "local": "assets/fonts/If2RXTr6YS-zF4S-kcSWSVi_szLuiuEHiC4Wl-8_9c07a386bf.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 22416
+    },
+    {
+      "local": "assets/fonts/If2RXTr6YS-zF4S-kcSWSVi_szLgiuEHiC4W_d2d947d76c.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 42744
+    },
+    {
+      "local": "assets/fonts/DK0eTGXiZjN6yA8zAEyM2RN-0beyHaEC1kqeqPFpWrs_ba21239106.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 38580
+    },
+    {
+      "local": "assets/fonts/KGBfwabt0ZRLA5W1ywjowZR92E8gBbe58j0pHY_YhTY_054774df13.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 40764
+    },
+    {
+      "local": "assets/fonts/din-next-w10-light_db3db89192.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 15504
+    },
+    {
+      "local": "assets/fonts/din-next-w02-light_6422d8a0d0.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 37024
+    },
+    {
+      "local": "assets/fonts/din-next-w01-light_38f1d0610c.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 20988
+    },
+    {
+      "local": "assets/fonts/helvetica-lt-w10-roman_c1555512b8.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 24252
+    },
+    {
+      "local": "assets/fonts/helvetica-w02-roman_c9f4f554c2.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 41956
+    },
+    {
+      "local": "assets/fonts/helvetica-w01-roman_8e0551aa96.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 36712
+    },
+    {
+      "local": "assets/fonts/pxiDyp8kv8JHgFVrJJLmy15VGdeOYktMqlap_5ad3be98dc.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 5824
+    },
+    {
+      "local": "assets/fonts/pxiGyp8kv8JHgFVrJJLufntAOvWDSHFF_42dabaef97.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 5900
+    },
+    {
+      "local": "assets/fonts/pxiEyp8kv8JHgFVrJJnecnFHGPezSQ_e45601160e.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 5532
+    },
+    {
+      "local": "assets/fonts/pxiByp8kv8JHgFVrLCz7Z1JlFd2JQEl8qw_0746cb0a6d.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 5388
+    },
+    {
+      "local": "assets/fonts/pxiDyp8kv8JHgFVrJJLmy15VF9eOYktMqg_10b512b055.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 8628
+    },
+    {
+      "local": "assets/fonts/pxiGyp8kv8JHgFVrJJLucHtAOvWDSA_38ea55776a.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 8676
+    },
+    {
+      "local": "assets/fonts/pxiEyp8kv8JHgFVrJJfecnFHGPc_99ddf6c1e4.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 7900
+    },
+    {
+      "local": "assets/fonts/pxiByp8kv8JHgFVrLCz7Z1xlFd2JQEk_60f4cbc1f6.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 7848
+    },
+    {
+      "local": "assets/fonts/h3r77AwDsldr1E_2g4qqGPk_vArhqVIZ0nv9q090hN8_97f9bffc63.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 10424
+    },
+    {
+      "local": "assets/fonts/Fm41upUVp7KTKUZhL0PfQVtXRa8TVwTICgirnJhmVJw_791ed0a555.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 12204
+    },
+    {
+      "local": "assets/fonts/rijG6I_IOXJjsH07UEo2mw_836d07297d.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 10464
+    },
+    {
+      "local": "assets/fonts/-GlaWpWcSgdVagNuOGuFKRUOjZSKWg4xBWp_C_qQx0o_07cba505b3.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 12108
+    },
+    {
+      "local": "assets/fonts/aDjpMND83pDErGXlVEr-Sfk_vArhqVIZ0nv9q090hN8_56e3ba8695.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 10504
+    },
+    {
+      "local": "assets/fonts/c4FPK8_hIFKoX59qcGwdChUOjZSKWg4xBWp_C_qQx0o_498278383e.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 12176
+    },
+    {
+      "local": "assets/fonts/RbebACOccNN-5ixkDIVLjRUOjZSKWg4xBWp_C_qQx0o_292b57ac4c.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 12256
+    },
+    {
+      "local": "assets/fonts/9VWMTeb5jtXkNoTv949Npfk_vArhqVIZ0nv9q090hN8_5c8581e9c4.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 10400
+    },
+    {
+      "local": "assets/fonts/avenir-lt-w05_35-light_09a1198f86.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 24560
+    },
+    {
+      "local": "assets/fonts/avenir-lt-w01_35-light1475496_10cc9c0f30.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 17216
+    },
+    {
+      "local": "assets/fonts/avenir-lt-w05_85-heavy_96a8bb9aae.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 26744
+    },
+    {
+      "local": "assets/fonts/avenir-lt-w01_85-heavy1475544_b05d4dbdbb.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 17176
+    },
+    {
+      "local": "assets/fonts/helvetica-lt-w10-bold_475c805777.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 23396
+    },
+    {
+      "local": "assets/fonts/helvetica-w02-bold_7c50840ae2.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 35596
+    },
+    {
+      "local": "assets/fonts/helvetica-w01-bold_4a6a2be7ed.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 28648
+    },
+    {
+      "local": "assets/fonts/helvetica-w02-light_be0d1436bb.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 22492
+    },
+    {
+      "local": "assets/fonts/helvetica-w01-light_74cdf56b2f.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 17348
+    },
+    {
+      "local": "assets/js/minified_cc5dbdbdf6.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 137782
+    },
+    {
+      "local": "assets/js/focus-within-polyfill_7429be62a7.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1175
+    },
+    {
+      "local": "assets/js/form-app-text-area.chunk.min_d2e288198c.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 10921
+    },
+    {
+      "local": "assets/js/1693.chunk.min_7e15926d4a.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 27377
+    },
+    {
+      "local": "assets/js/680.chunk.min_fb4b20f943.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 5058
+    },
+    {
+      "local": "assets/js/form-app-header.chunk.min_432b70fb22.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 693
+    },
+    {
+      "local": "assets/js/form-app-wix-ricos-viewer.chunk.min_ffb6c3c50e.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 129233
+    },
+    {
+      "local": "assets/js/requirejs.min_55885c2319.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 17493
+    },
+    {
+      "local": "assets/js/wix-image-kit.d06a1127.bundle.min_f9a78792f2.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 26322
+    },
+    {
+      "local": "assets/js/htmlparser2-xml.4f17eecc.bundle.min_131b355975.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 50720
+    },
+    {
+      "local": "assets/js/rb_wixui.thunderbolt_SkipToContentButton_.d886e6d7.bundle.min_9db4d34a75.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 2151
+    },
+    {
+      "local": "assets/js/rb_wixui.thunderbolt_Container_RectangleArea_.afbaa6d2.bundle.min_fccaf0d596.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 4945
+    },
+    {
+      "local": "assets/js/rb_wixui.thunderbolt_SlideShowContainer_.128d4d0e.bundle.min_1e7f346226.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 24185
+    },
+    {
+      "local": "assets/js/rb_wixui.thunderbolt_Container_CircleArea_.d6ab2787.bundle.min_f9edb8119f.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 4933
+    },
+    {
+      "local": "assets/js/rb_wixui.thunderbolt_bootstrap-responsive.1bfc1371.bundle.min_9f3b78da46.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 24564
+    },
+    {
+      "local": "assets/js/rb_wixui.thunderbolt_AppWidget_Classic_.2a070355.bundle.min_289e02769c.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 3386
+    },
+    {
+      "local": "assets/js/rb_wixui.thunderbolt_MeshGroup_.012bc6b1.bundle.min_3dd5d94fd9.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 3224
+    },
+    {
+      "local": "assets/js/rb_wixui.thunderbolt_Container_DefaultAreaSkin_.3eaf4c42.bundle.min_1b2c20aecc.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 4953
+    },
+    {
+      "local": "assets/js/rb_wixui.thunderbolt_FiveGridLine_SolidLine_.76fd72e8.bundle.min_a797b27342.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 2730
+    },
+    {
+      "local": "assets/js/FormViewerWidgetNoCss.bundle.min_50f58f167c.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 875688
+    },
+    {
+      "local": "assets/js/ServiceListWidgetViewerWidgetNoCss.bundle.min_184d239423.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 534193
+    },
+    {
+      "local": "assets/js/WixProGalleryViewerWidget.bundle.min_511f8aa09b.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1117384
+    },
+    {
+      "local": "assets/js/rb_wixui.thunderbolt_ImageButton_.72c94a97.bundle.min_f9b28c3158.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 13813
+    },
+    {
+      "local": "assets/js/rb_wixui.thunderbolt_bootstrap.da83ff7e.bundle.min_47471e51c3.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 43960
+    },
+    {
+      "local": "assets/js/rb_wixui.thunderbolt_bootstrap-classic.d170fd1f.bundle.min_bac6266ca3.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 43243
+    },
+    {
+      "local": "assets/js/rb_wixui.thunderbolt_StripColumnsContainer_Default_.119e0578.bundle.mi_28352d75af.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 13003
+    },
+    {
+      "local": "assets/js/rb_wixui.thunderbolt_SlideShowSlide_.fb5fc58e.bundle.min_b624ad0c93.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 13284
+    },
+    {
+      "local": "assets/js/rb_wixui.thunderbolt_LoginSocialBar_.9a9f19e5.bundle.min_fa6f118bce.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 58524
+    },
+    {
+      "local": "assets/js/rb_wixui.thunderbolt_ClassicSection_.95b2f0f2.bundle.min_7ec0e5ce9c.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 16267
+    },
+    {
+      "local": "assets/js/modulemetadata.es5.min_7867333024.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 3326
+    },
+    {
+      "local": "assets/js/react.production.min_a3d104366c.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 10782
+    },
+    {
+      "local": "assets/js/react-dom.production.min_23f284a3a3.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 132102
+    },
+    {
+      "local": "assets/js/lodash.min_4e41d11c55.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 73369
+    },
+    {
+      "local": "assets/js/thunderbolt-commons.cd47ac5f.bundle.min_78132d45d2.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 157434
+    },
+    {
+      "local": "assets/js/main.34f6665a.bundle.min_d65dae7f0c.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 230264
+    },
+    {
+      "local": "assets/js/main.renderer.b325a058.bundle.min_9f8dedd221.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 150
+    },
+    {
+      "local": "assets/js/browser-deprecation.bundle.es5_80b3562822.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 3828
+    },
+    {
+      "local": "assets/js/siteTags.bundle.min_a2c4f022a5.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 9417
+    },
+    {
+      "local": "assets/images/ea26fd_bb642f1520254d0ebe38dca05d63eb2e_mv2_d_3171_4665_s_4_2_52c3602561.jpg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 1538
+    },
+    {
+      "local": "assets/images/ea26fd_3d57017323c64f6cafd74dbc22aa20b1_mv2_d_6720_4480_s_4_2_c3ab3577c9.jpg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 1848
+    },
+    {
+      "local": "assets/js/thunderbolt-components-registry.bbe0388d.chunk.min_1f9d512658.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 24328
+    },
+    {
+      "local": "assets/js/group_2.c60c4730.chunk.min_0008867856.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 54479
+    },
+    {
+      "local": "assets/js/assetsLoader.6bffd761.chunk.min_75f038062a.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 6952
+    },
+    {
+      "local": "assets/js/group_3.dd33e4a3.chunk.min_14b752ab76.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 72301
+    },
+    {
+      "local": "assets/js/businessLogger.377a70ea.chunk.min_dcc6f7e695.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 544
+    },
+    {
+      "local": "assets/js/consentPolicy.e91bc7e5.chunk.min_3a771b903d.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 541
+    },
+    {
+      "local": "assets/js/domSelectors.1772351a.chunk.min_080016be64.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1468
+    },
+    {
+      "local": "assets/js/group_7.9cd3d937.chunk.min_a01ff5e23d.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 17180
+    },
+    {
+      "local": "assets/js/ooi.35dd0965.chunk.min_270c03f831.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 450
+    },
+    {
+      "local": "assets/js/protectedPages.686e2c1a.chunk.min_d1c3c190e4.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 5320
+    },
+    {
+      "local": "assets/js/renderer.e30669d5.chunk.min_10a199c73f.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 13152
+    },
+    {
+      "local": "assets/js/group_4.e486b681.chunk.min_c5ad2bd4dd.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 40142
+    },
+    {
+      "local": "assets/js/router.7550ec16.chunk.min_3cc4078a3d.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 2163
+    },
+    {
+      "local": "assets/js/stores.271cca5b.chunk.min_f25e93eeb4.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 6717
+    },
+    {
+      "local": "assets/js/usedPlatformApis.2fac58dc.chunk.min_f79819c44e.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 692
+    },
+    {
+      "local": "assets/js/warmupData.8df801a8.chunk.min_844a47dee8.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 379
+    },
+    {
+      "local": "assets/js/componentsLoader.037bc6b5.chunk.min_8ee9bf1d4a.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 544
+    },
+    {
+      "local": "assets/js/accessibilityBrowserZoom.69ca8cc9.chunk.min_f4f2cd8be8.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 7353
+    },
+    {
+      "local": "assets/js/appMonitoring.990fa541.chunk.min_f81cfaf0fd.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 21016
+    },
+    {
+      "local": "assets/js/group_5.79994512.chunk.min_4dfd503c22.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 37977
+    },
+    {
+      "local": "assets/js/contentReflow.3a7544b6.chunk.min_e377cb8e3c.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1832
+    },
+    {
+      "local": "assets/js/cyclicTabbing.fb257bad.chunk.min_fde3588f5e.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 768
+    },
+    {
+      "local": "assets/js/domStore.14823c1f.chunk.min_30a82eab80.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 32166
+    },
+    {
+      "local": "assets/js/group_38.2fb20b49.chunk.min_551b720af0.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 4886
+    },
+    {
+      "local": "assets/js/dynamicPages.4ff4e6f5.chunk.min_a93807886d.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 348
+    },
+    {
+      "local": "assets/js/group_45.c1314395.chunk.min_65fd7fb1b2.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 828
+    },
+    {
+      "local": "assets/js/environmentWixCodeSdk.566c4d0f.chunk.min_a526118280.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 504
+    },
+    {
+      "local": "assets/js/environment.caa69c37.chunk.min_41eb37e520.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 537
+    },
+    {
+      "local": "assets/js/externalServices.a9aa058b.chunk.min_a30c9d0bbc.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 2643
+    },
+    {
+      "local": "assets/js/group_20.6f996b60.chunk.min_024adf56f3.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 8667
+    },
+    {
+      "local": "assets/js/popups.601233da.chunk.min_5c4573a597.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1389
+    },
+    {
+      "local": "assets/js/tslib.inline.0a404b36.chunk.min_484d09994c.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 11257
+    },
+    {
+      "local": "assets/js/mpaNavigation.bd7e02b4.chunk.min_73339b8202.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 7514
+    },
+    {
+      "local": "assets/js/panorama.a27650b3.chunk.min_9dd4c44bf0.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1021
+    },
+    {
+      "local": "assets/js/routerFetch.0667279b.chunk.min_0601363c48.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 48844
+    },
+    {
+      "local": "assets/js/group_6.5f7b0030.chunk.min_e973b170a3.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 252706
+    },
+    {
+      "local": "assets/js/siteMembersWixCodeSdk.143b2c98.chunk.min_7b4bfc8967.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 32415
+    },
+    {
+      "local": "assets/js/group_9.f1ec97ea.chunk.min_a4169fe84a.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 63691
+    },
+    {
+      "local": "assets/js/siteMembers.b1553e13.chunk.min_a0f7d2cb76.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 68666
+    },
+    {
+      "local": "assets/js/siteScrollBlocker.0d237009.chunk.min_8ebe88c6dc.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 481
+    },
+    {
+      "local": "assets/js/speculationRules.59e08197.chunk.min_3d37f792f5.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1818
+    },
+    {
+      "local": "assets/js/ssrCache.f7fb72e6.chunk.min_9f70493d63.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1971
+    },
+    {
+      "local": "assets/js/group_22.b6fd6609.chunk.min_5fa3754fc9.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 2552
+    },
+    {
+      "local": "assets/js/platform.a007cd91.chunk.min_550c4637c9.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 7408
+    },
+    {
+      "local": "assets/css/layoutCss_36249c580d.css",
+      "category": "css",
+      "mime": "text/css",
+      "bytes": 6249
+    },
+    {
+      "local": "assets/js/reporter-api.9a0bba7d.chunk.min_6f96402fa4.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 37313
+    },
+    {
+      "local": "assets/js/group_0.b58e75e0.chunk.min_64e279ac0b.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1132
+    },
+    {
+      "local": "assets/js/TPABaseComponent.fa382800.chunk.min_c7465491b1.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 5020
+    },
+    {
+      "local": "assets/js/accessibility.e4888b8e.chunk.min_b6db17ad78.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1124
+    },
+    {
+      "local": "assets/js/group_14.a7e0cdf0.chunk.min_6bdaeac9ba.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 3464
+    },
+    {
+      "local": "assets/js/animations.5f622044.chunk.min_559e33b2e0.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 15633
+    },
+    {
+      "local": "assets/js/animationsWixCodeSdk.9f05a568.chunk.min_0d059ea5d1.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1008
+    },
+    {
+      "local": "assets/js/imagePlaceholder.cfcbba70.chunk.min_512459d8e5.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 755
+    },
+    {
+      "local": "assets/js/platformPubsub.d41c28b7.chunk.min_7b370f03f4.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 2024
+    },
+    {
+      "local": "assets/js/navigation.fd6a4352.chunk.min_702f06d64c.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1387
+    },
+    {
+      "local": "assets/js/scrollToAnchor.a3fa83b7.chunk.min_6ee9df3b9b.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 3543
+    },
+    {
+      "local": "assets/js/windowScroll.94e57fc8.chunk.min_b1199f81a0.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 464
+    },
+    {
+      "local": "assets/js/group_8.551b56fc.chunk.min_3816f3a49e.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 57742
+    },
+    {
+      "local": "assets/js/tpa.727b7948.chunk.min_f7478563b8.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 7256
+    },
+    {
+      "local": "assets/js/svgLoader.0b99cad8.chunk.min_59df654b57.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 34377
+    },
+    {
+      "local": "assets/js/group_27.c4c38b3c.chunk.min_9df6e95525.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 742
+    },
+    {
+      "local": "assets/js/group_28.517aa7aa.chunk.min_9b44f14b44.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 677
+    },
+    {
+      "local": "assets/js/mobileFullScreen.26016b15.chunk.min_9da32bb17b.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 911
+    },
+    {
+      "local": "assets/js/motion.c8984600.chunk.min_7d2a0efac2.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 139398
+    },
+    {
+      "local": "assets/js/group_30.3f1bd6a0.chunk.min_ea934e8e3c.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 12268
+    },
+    {
+      "local": "assets/js/triggersAndReactions.9eecfa2f.chunk.min_cdd63c63f2.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1272
+    },
+    {
+      "local": "assets/js/environmentService.28f65978.chunk.min_11be74d283.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 2942
+    },
+    {
+      "local": "assets/js/group_11.eeaeabf5.chunk.min_8c1f738e71.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1079
+    },
+    {
+      "local": "assets/js/group_32.87a52be9.chunk.min_aeacd11ca4.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 4221
+    },
+    {
+      "local": "assets/js/group_24.5677d2a9.chunk.min_5ef39743f4.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 3379
+    },
+    {
+      "local": "assets/js/pageAnchors.c566b640.chunk.min_476dd84a46.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 463
+    },
+    {
+      "local": "assets/js/group_23.7ae110ca.chunk.min_1c6c9b9aaa.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 3880
+    },
+    {
+      "local": "assets/images/c5d4867162cf45debde11a804562ec4b_32eda66160.svg",
+      "category": "images",
+      "mime": "image/svg+xml",
+      "bytes": 747
+    },
+    {
+      "local": "assets/images/11062b_413a3f2bdbb64b199262dcb9d82dac3e_d84c314991.svg",
+      "category": "images",
+      "mime": "image/svg+xml",
+      "bytes": 1732
+    },
+    {
+      "local": "assets/images/608f8b5230724692866014c9056f9967_1b7f5e76ac.svg",
+      "category": "images",
+      "mime": "image/svg+xml",
+      "bytes": 1756
+    },
+    {
+      "local": "assets/images/11062b_5ca3fc712d22428e854b370e048337d4_ecfb79236b.svg",
+      "category": "images",
+      "mime": "image/svg+xml",
+      "bytes": 1489
+    },
+    {
+      "local": "assets/js/seo-api.1430007a.chunk.min_cf34c81244.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 94467
+    },
+    {
+      "local": "assets/js/wix-ricos-sdk-client.chunk.min_27a827721c.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 18259
+    },
+    {
+      "local": "assets/images/ea26fd_d9802aa326014f25875f4dca0f51deb3_mv2_d_8660_5773_s_4_2_f0b15fe1bc.jpg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 56909
+    },
+    {
+      "local": "assets/images/ea26fd_37f8f8b194214939937772d1168c1113_mv2_d_5499_3666_s_4_2_d99d8874ca.jpg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 58297
+    },
+    {
+      "local": "assets/js/AsyncEventHandler.chunk.min_4537a0d282.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 5868
+    }
+  ],
+  "failed": [
+    {
+      "context": "css",
+      "reason": "not retrievable from browser cache or HTTP"
+    }
+  ],
+  "removed_trackers": [],
+  "removed_inline_css_locators": [
+    {
+      "reason": "stylesheet content is already embedded in this style element"
+    },
+    {
+      "reason": "stylesheet content is already embedded in this style element"
+    },
+    {
+      "reason": "stylesheet content is already embedded in this style element"
+    },
+    {
+      "reason": "stylesheet content is already embedded in this style element"
+    },
+    {
+      "reason": "stylesheet content is already embedded in this style element"
+    },
+    {
+      "reason": "stylesheet content is already embedded in this style element"
+    },
+    {
+      "reason": "stylesheet content is already embedded in this style element"
+    },
+    {
+      "reason": "stylesheet content is already embedded in this style element"
+    },
+    {
+      "reason": "stylesheet content is already embedded in this style element"
+    },
+    {
+      "reason": "stylesheet content is already embedded in this style element"
+    },
+    {
+      "reason": "stylesheet content is already embedded in this style element"
+    },
+    {
+      "reason": "stylesheet content is already embedded in this style element"
+    },
+    {
+      "reason": "stylesheet content is already embedded in this style element"
+    },
+    {
+      "reason": "stylesheet content is already embedded in this style element"
+    },
+    {
+      "reason": "stylesheet content is already embedded in this style element"
+    },
+    {
+      "reason": "stylesheet content is already embedded in this style element"
+    },
+    {
+      "reason": "stylesheet content is already embedded in this style element"
+    },
+    {
+      "reason": "stylesheet content is already embedded in this style element"
+    },
+    {
+      "reason": "stylesheet content is already embedded in this style element"
+    },
+    {
+      "reason": "stylesheet content is already embedded in this style element"
+    },
+    {
+      "reason": "stylesheet content is already embedded in this style element"
+    },
+    {
+      "reason": "stylesheet content is already embedded in this style element"
+    },
+    {
+      "reason": "stylesheet content is already embedded in this style element"
+    },
+    {
+      "reason": "stylesheet content is already embedded in this style element"
+    }
+  ],
+  "dependency_localization": {
+    "css_imports_and_urls_followed": true,
+    "javascript_static_and_dynamic_imports_followed": true,
+    "ordinary_navigation_urls_downloaded_as_assets": false
+  },
+  "validation_errors": [
+    "external iframe dependency (review; may be map/video/form content): https://engage.wixapps.net/chat-widget-server/renderChatWidget/index?pageId=masterPage&compId=comp-jwrktahk&viewerCompId=comp-jwrktahk&siteRevision=412&viewMode=site&deviceType=desktop&locale=en&tz=America%2FLos_Angeles&regionalLanguage=en&width=94&height=94&instance=nBzMUg2xZYCZvKtO9S3ikYTzVuv940jVXtLqbTccXQI.eyJpbnN0YW5jZUlkIjoiNTFlNDMwZGEtMzdlMi00M2JkLWEzZmEtMjJkMGJiZTBlNmZkIiwiYXBwRGVmSWQiOiIxNDUxN2UxYS0zZmYwLWFmOTgtNDA4ZS0yYmQ2OTUzYzM2YTIiLCJtZXRhU2l0ZUlkIjoiMjIyYzYzMTgtYmViMS00ZDE4LWFlZDEtZDFlYjJhYzE0YmVlIiwic2lnbkRhdGUiOiIyMDI2LTEwLTE3VDA4OjIwOjQzLjEwNloiLCJkZW1vTW9kZSI6dHJ1ZSwib3JpZ2luSW5zdGFuY2VJZCI6IjhjN2RiMmZlLWY3YjItNDFjMC05ZWU5LTA0M2JlMDc0N2U0OSIsImFpZCI6ImYxMGNmYTRhLTI4NjktNDExYS05Y2E4LTkyZDVlNGU4M2EzMSIsImJpVG9rZW4iOiI3M2M4NTNjMi04OTUzLTBlYTUtMGQyYi1mMzNiOTEyMWFkMTMiLCJzaXRlT3duZXJJZCI6Ijg0NzcwZjY3LWVjYmQtNDRiNi1iMzVhLTU4NGYyZGMxNWFmMSIsInNpdGVJc1RlbXBsYXRlIjp0cnVlLCJicyI6IlhaWG9LLU4xdW1ENXlaX1U5VnNkZ251UzNpS21lU1ZBLVlPRFpiZVlCNW8iLCJzY2QiOiIyMDE5LTA2LTI1VDE1OjQ0OjUzLjUzNloifQ&currency=USD&currentCurrency=USD&commonConfig=%7B%22brand%22%3A%22wix%22%2C%22host%22%3A%22VIEWER%22%2C%22bsi%22%3A%221707ec3a-1d04-43e3-8ab9-5276ce4bf37f%7C1%22%2C%22siteRevision%22%3A%22412%22%2C%22renderingFlow%22%3A%22NONE%22%2C%22language%22%3A%22en%22%2C%22locale%22%3A%22en-us%22%2C%22BSI%22%3A%221707ec3a-1d04-43e3-8ab9-5276ce4bf37f%7C1%22%7D&currentRoute=.%2F&consent-policy=%7B%22func%22%3A1%2C%22anl%22%3A1%2C%22adv%22%3A0%2C%22dt3%22%3A0%2C%22ess%22%3A1%7D&vsi=a4eddcac-0c34-4d67-8247-3c0b2c0d9607",
+    "missing CSS asset (style block): media/emptystate.85a4add5.svg"
+  ],
+  "unresolved_external_dependencies": [
+    "external iframe dependency (review; may be map/video/form content): https://engage.wixapps.net/chat-widget-server/renderChatWidget/index?pageId=masterPage&compId=comp-jwrktahk&viewerCompId=comp-jwrktahk&siteRevision=412&viewMode=site&deviceType=desktop&locale=en&tz=America%2FLos_Angeles&regionalLanguage=en&width=94&height=94&instance=nBzMUg2xZYCZvKtO9S3ikYTzVuv940jVXtLqbTccXQI.eyJpbnN0YW5jZUlkIjoiNTFlNDMwZGEtMzdlMi00M2JkLWEzZmEtMjJkMGJiZTBlNmZkIiwiYXBwRGVmSWQiOiIxNDUxN2UxYS0zZmYwLWFmOTgtNDA4ZS0yYmQ2OTUzYzM2YTIiLCJtZXRhU2l0ZUlkIjoiMjIyYzYzMTgtYmViMS00ZDE4LWFlZDEtZDFlYjJhYzE0YmVlIiwic2lnbkRhdGUiOiIyMDI2LTEwLTE3VDA4OjIwOjQzLjEwNloiLCJkZW1vTW9kZSI6dHJ1ZSwib3JpZ2luSW5zdGFuY2VJZCI6IjhjN2RiMmZlLWY3YjItNDFjMC05ZWU5LTA0M2JlMDc0N2U0OSIsImFpZCI6ImYxMGNmYTRhLTI4NjktNDExYS05Y2E4LTkyZDVlNGU4M2EzMSIsImJpVG9rZW4iOiI3M2M4NTNjMi04OTUzLTBlYTUtMGQyYi1mMzNiOTEyMWFkMTMiLCJzaXRlT3duZXJJZCI6Ijg0NzcwZjY3LWVjYmQtNDRiNi1iMzVhLTU4NGYyZGMxNWFmMSIsInNpdGVJc1RlbXBsYXRlIjp0cnVlLCJicyI6IlhaWG9LLU4xdW1ENXlaX1U5VnNkZ251UzNpS21lU1ZBLVlPRFpiZVlCNW8iLCJzY2QiOiIyMDE5LTA2LTI1VDE1OjQ0OjUzLjUzNloifQ&currency=USD&currentCurrency=USD&commonConfig=%7B%22brand%22%3A%22wix%22%2C%22host%22%3A%22VIEWER%22%2C%22bsi%22%3A%221707ec3a-1d04-43e3-8ab9-5276ce4bf37f%7C1%22%2C%22siteRevision%22%3A%22412%22%2C%22renderingFlow%22%3A%22NONE%22%2C%22language%22%3A%22en%22%2C%22locale%22%3A%22en-us%22%2C%22BSI%22%3A%221707ec3a-1d04-43e3-8ab9-5276ce4bf37f%7C1%22%7D&currentRoute=.%2F&consent-policy=%7B%22func%22%3A1%2C%22anl%22%3A1%2C%22adv%22%3A0%2C%22dt3%22%3A0%2C%22ess%22%3A1%7D&vsi=a4eddcac-0c34-4d67-8247-3c0b2c0d9607"
+  ],
+  "remote_hosts_mentioned_in_local_js_for_review": [
+    "${a}",
+    "${a}.${n}",
+    "${e}",
+    "${e}.filesusr.com",
+    "${r}.${i}",
+    "${s}",
+    "${t}",
+    "${t}.${r}",
+    "${w?",
+    "4b2ce5406bd227505424cd7bcfc5cba5@o37417.ingest.us.sentry.io",
+    "6bb6d49e06f6033510825a723166ba3c@o37417.ingest.us.sentry.io",
+    "87168827af6c40f29992e0213f5c86b4@o37417.ingest.us.sentry.io",
+    "a",
+    "a#б",
+    "a@b",
+    "api.whatsapp.com",
+    "axios-http.com",
+    "baseurl",
+    "d2da005893e64a638a4aa6cb7f0dd60c@sentry.wixpress.com",
+    "dcd7075e345b43d991c2ca339000e980@sentry.wixpress.com",
+    "en.wikipedia.org",
+    "f31bc3de5f7f4f5290342dccc141bf4d@sentry-next.wixpress.com",
+    "fb.me",
+    "github.com",
+    "greensock.com",
+    "jedwatson.github.io",
+    "localhost",
+    "maps.google.com",
+    "mock_section_url",
+    "mths.be",
+    "npms.io",
+    "panorama.wixapps.net",
+    "player.vimeo.com",
+    "pro-gallery.surge.sh?",
+    "reactjs.org",
+    "requirejs.org",
+    "rock.mit-license.org",
+    "sled.wix.dev",
+    "unused.com",
+    "wix-wix-ui-tpa.surge.sh",
+    "www.google.com",
+    "www.wixapis.com",
+    "yoursitename.wixsite.com",
+    "тест"
+  ],
+  "source_urls_removed": true
+}

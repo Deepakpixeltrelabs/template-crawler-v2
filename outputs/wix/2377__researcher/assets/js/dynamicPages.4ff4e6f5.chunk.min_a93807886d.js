@@ -1,0 +1,2 @@
+"use strict";(self.webpackJsonp__wix_thunderbolt_app=self.webpackJsonp__wix_thunderbolt_app||[]).push([["3979"],{85080(e,p,s){s.d(p,{U:()=>_});var t,_=((t={}).PAGES="pages",t.SITEMAP="sitemap",t.Lightboxes="lightboxes",t)}}]);
+//# sourceMappingURL=https://static.parastorage.com/services/wix-thunderbolt/dist/dynamicPages.4ff4e6f5.chunk.min.js.map

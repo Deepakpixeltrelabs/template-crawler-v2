@@ -1,0 +1,2 @@
+"use strict";(self.webpackJsonp__wix_thunderbolt_app=self.webpackJsonp__wix_thunderbolt_app||[]).push([["1538"],{66576(n,e,t){t.d(e,{Z:()=>u,x:()=>i});var r=t(44624);let i=r.P,u=r.n},56093(n,e,t){t.d(e,{a:()=>r});let r=(0,t(66576).x)("@wix/viewer-service-business-logger")},44624(n,e,t){function r(n){return n}function i(n,e){return e}t.d(e,{P:()=>r,n:()=>i}),i.withConfig=function(){return function(n,e){return e}}}}]);
+//# sourceMappingURL=https://static.parastorage.com/services/wix-thunderbolt/dist/businessLogger.377a70ea.chunk.min.js.map

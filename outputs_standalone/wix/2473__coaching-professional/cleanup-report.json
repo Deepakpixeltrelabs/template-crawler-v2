@@ -1,0 +1,680 @@
+{
+  "source": "C:\\Users\\Deepak\\Downloads\\Website_Crawler_Studio_Local_Recursive_Assets\\Website_Crawler_Studio_Local\\outputs\\wix\\2473__coaching-professional",
+  "source_signature": "b3835b0066fe530f2b10b1bc702978033a38c6b6c431f43278620210eafd2432",
+  "pipeline_signature": "14bbb6c7bc32938b59fea3cc7f42a2bc1ddfe5fd68900a8c09c548d941150402",
+  "pipeline_version": "wix-static-extraction-v5-dependency-map",
+  "prompt_file": "standalone_cleanup_prompt.txt",
+  "prompt_sha256": "d5c52793be6ddab58564660e43d16702fc4f101f7caea6b20a1a9de6282e1308",
+  "model": "C:\\Users\\Deepak\\Downloads\\Website_Crawler_Studio_Local_Recursive_Assets\\Website_Crawler_Studio_Local\\LLM\\models\\Qwen2.5-Coder-3B-Instruct-Q4_K_M.gguf",
+  "base_url": "http://127.0.0.1:1237/v1",
+  "mode": "local-only",
+  "wix_static_extraction": true,
+  "max_llm_segments_per_file": 8,
+  "created_at": "2026-10-17T13:51:06",
+  "files_reviewed": [],
+  "asset_rewrites": [
+    {
+      "file": "index.html",
+      "references_rewritten": 4
+    },
+    {
+      "file": "assets/js/accessibility.e4888b8e.chunk.min_b6db17ad78.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/accessibilityBrowserZoom.69ca8cc9.chunk.min_f4f2cd8be8.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/animations.5f622044.chunk.min_559e33b2e0.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/animationsWixCodeSdk.9f05a568.chunk.min_0d059ea5d1.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/appMonitoring.990fa541.chunk.min_f81cfaf0fd.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/assetsLoader.6bffd761.chunk.min_75f038062a.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/businessLogger.377a70ea.chunk.min_dcc6f7e695.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/componentsLoader.037bc6b5.chunk.min_8ee9bf1d4a.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/consentPolicy.e91bc7e5.chunk.min_3a771b903d.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/contentReflow.3a7544b6.chunk.min_e377cb8e3c.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/cyclicTabbing.fb257bad.chunk.min_fde3588f5e.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/domSelectors.1772351a.chunk.min_080016be64.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/domStore.14823c1f.chunk.min_30a82eab80.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/dynamicPages.4ff4e6f5.chunk.min_a93807886d.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/environment.caa69c37.chunk.min_41eb37e520.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/environmentService.28f65978.chunk.min_11be74d283.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/environmentWixCodeSdk.566c4d0f.chunk.min_a526118280.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/externalServices.a9aa058b.chunk.min_a30c9d0bbc.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/group_0.b58e75e0.chunk.min_64e279ac0b.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/group_11.eeaeabf5.chunk.min_8c1f738e71.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/group_14.a7e0cdf0.chunk.min_6bdaeac9ba.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/group_2.c60c4730.chunk.min_0008867856.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/group_20.6f996b60.chunk.min_024adf56f3.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/group_22.b6fd6609.chunk.min_5fa3754fc9.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/group_23.7ae110ca.chunk.min_1c6c9b9aaa.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/group_24.5677d2a9.chunk.min_5ef39743f4.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/group_27.c4c38b3c.chunk.min_9df6e95525.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/group_28.517aa7aa.chunk.min_9b44f14b44.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/group_3.dd33e4a3.chunk.min_14b752ab76.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/group_30.3f1bd6a0.chunk.min_ea934e8e3c.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/group_32.87a52be9.chunk.min_aeacd11ca4.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/group_38.2fb20b49.chunk.min_551b720af0.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/group_4.e486b681.chunk.min_c5ad2bd4dd.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/group_45.c1314395.chunk.min_65fd7fb1b2.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/group_5.79994512.chunk.min_4dfd503c22.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/group_6.5f7b0030.chunk.min_e973b170a3.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/group_7.9cd3d937.chunk.min_a01ff5e23d.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/group_8.551b56fc.chunk.min_3816f3a49e.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/group_9.f1ec97ea.chunk.min_a4169fe84a.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/imagePlaceholder.cfcbba70.chunk.min_512459d8e5.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/main.34f6665a.bundle.min_d65dae7f0c.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/mobileFullScreen.26016b15.chunk.min_9da32bb17b.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/motion.c8984600.chunk.min_7d2a0efac2.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/mpaNavigation.bd7e02b4.chunk.min_73339b8202.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/navigation.fd6a4352.chunk.min_702f06d64c.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/ooi.35dd0965.chunk.min_270c03f831.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/pageAnchors.c566b640.chunk.min_476dd84a46.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/panorama.a27650b3.chunk.min_9dd4c44bf0.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/platform.a007cd91.chunk.min_550c4637c9.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/platformPubsub.d41c28b7.chunk.min_7b370f03f4.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/popups.601233da.chunk.min_5c4573a597.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/protectedPages.686e2c1a.chunk.min_d1c3c190e4.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/renderer.e30669d5.chunk.min_10a199c73f.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/reporter-api.9a0bba7d.chunk.min_6f96402fa4.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/router.7550ec16.chunk.min_3cc4078a3d.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/routerFetch.0667279b.chunk.min_0601363c48.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/scrollToAnchor.a3fa83b7.chunk.min_6ee9df3b9b.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/seo-api.1430007a.chunk.min_cf34c81244.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/siteMembers.b1553e13.chunk.min_a0f7d2cb76.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/siteMembersWixCodeSdk.143b2c98.chunk.min_7b4bfc8967.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/siteScrollBlocker.0d237009.chunk.min_8ebe88c6dc.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/speculationRules.59e08197.chunk.min_3d37f792f5.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/ssrCache.f7fb72e6.chunk.min_9f70493d63.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/stores.271cca5b.chunk.min_f25e93eeb4.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/svgLoader.0b99cad8.chunk.min_59df654b57.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/thunderbolt-commons.cd47ac5f.bundle.min_78132d45d2.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/thunderbolt-components-registry.bbe0388d.chunk.min_1f9d512658.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/tpa.727b7948.chunk.min_f7478563b8.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/TPABaseComponent.fa382800.chunk.min_c7465491b1.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/triggersAndReactions.9eecfa2f.chunk.min_cdd63c63f2.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/tslib.inline.0a404b36.chunk.min_484d09994c.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/usedPlatformApis.2fac58dc.chunk.min_f79819c44e.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/warmupData.8df801a8.chunk.min_844a47dee8.js",
+      "references_rewritten": 1
+    },
+    {
+      "file": "assets/js/windowScroll.94e57fc8.chunk.min_b1199f81a0.js",
+      "references_rewritten": 1
+    }
+  ],
+  "deterministic_removals": [
+    "Removed Wix generator metadata",
+    "Removed noindex metadata from the reusable standalone copy",
+    "Removed Wix preview Open Graph URL",
+    "Removed Wix preview canonical URL",
+    "Removed iframe: https://engage.wixapps.net/chat-widget-server/renderChatWidget/index?pageId=masterPage&compId=comp-jwrktahk&viewerCompId=comp-jwrktahk&siteRevision=412&viewMode=site&deviceType=desktop&locale=en&tz=America%2FLos_Angeles&regionalLanguage=en&width=94&height=94&instance=nBzMUg2xZYCZvKtO9S3ikYTzVuv940jVXtLqbTccXQI.eyJpbnN0YW5jZUlkIjoiNTFlNDMwZGEtMzdlMi00M2JkLWEzZmEtMjJkMGJiZTBlNmZkIiwiYXBwRGVmSWQiOiIxNDUxN2UxYS0zZmYwLWFmOTgtNDA4ZS0yYmQ2OTUzYzM2YTIiLCJtZXRhU2l0ZUlkIjoiMjIyYzYzMTgtYmViMS00ZDE4LWFlZDEtZDFlYjJhYzE0YmVlIiwic2lnbkRhdGUiOiIyMDI2LTEwLTE3VDA4OjIwOjQzLjEwNloiLCJkZW1vTW9kZSI6dHJ1ZSwib3JpZ2luSW5zdGFuY2VJZCI6IjhjN2RiMmZlLWY3YjItNDFjMC05ZWU5LTA0M2JlMDc0N2U0OSIsImFpZCI6ImYxMGNmYTRhLTI4NjktNDExYS05Y2E4LTkyZDVlNGU4M2EzMSIsImJpVG9rZW4iOiI3M2M4NTNjMi04OTUzLTBlYTUtMGQyYi1mMzNiOTEyMWFkMTMiLCJzaXRlT3duZXJJZCI6Ijg0NzcwZjY3LWVjYmQtNDRiNi1iMzVhLTU4NGYyZGMxNWFmMSIsInNpdGVJc1RlbXBsYXRlIjp0cnVlLCJicyI6IlhaWG9LLU4xdW1ENXlaX1U5VnNkZ251UzNpS21lU1ZBLVlPRFpiZVlCNW8iLCJzY2QiOiIyMDE5LTA2LTI1VDE1OjQ0OjUzLjUzNloifQ&currency=USD&currentCurrency=USD&commonConfig=%7B%22brand%22%3A%22wix%22%2C%22host%22%3A%22VIEWER%22%2C%22bsi%22%3A%221707ec3a-1d04-43e3-8ab9-5276ce4bf37f%7C1%22%2C%22siteRevision%22%3A%22412%22%2C%22renderingFlow%22%3A%22NONE%22%2C%22language%22%3A%22en%22%2C%22locale%22%3A%22en-us%22%2C%22BSI%22%3A%221707ec3a-1d04-43e3-8ab9-5276ce4bf37f%7C1%22%7D&currentRoute=.%2F&consent-policy=%7B%22func%22%3A1%2C%22anl%22%3A1%2C%22adv%22%3A0%2C%22dt3%22%3A0%2C%22ess%22%3A1%7D&vsi=a4eddcac-0c34-4d67-8247-3c0b2c0d9607",
+    "Removed Wix runtime/bootstrap script: inline script",
+    "Removed Wix runtime/bootstrap script: wix-essential-viewer-model",
+    "Removed Wix runtime/bootstrap script: inline script",
+    "Removed Wix runtime/bootstrap script: inline script",
+    "Removed Wix runtime/bootstrap script: inline script",
+    "Removed Wix runtime/bootstrap script: [Wix URL removed]",
+    "Removed Wix runtime/bootstrap script: [Wix URL removed]",
+    "Removed Wix runtime/bootstrap script: inline script",
+    "Removed Wix runtime/bootstrap script: pageHtmlEmbeds.head start",
+    "Removed Wix runtime/bootstrap script: pageHtmlEmbeds.head end",
+    "Removed Wix runtime/bootstrap script: wix-skip-played-animations-setup",
+    "Removed Wix runtime/bootstrap script: inline script",
+    "Removed Wix runtime/bootstrap script: inline script",
+    "Removed Wix runtime/bootstrap script: form-app-wix-ricos-viewer.chunk.min_ffb6c3c50e.js",
+    "Removed Wix runtime/bootstrap script: wix-image-kit.d06a1127.bundle.min_f9a78792f2.js",
+    "Removed Wix runtime/bootstrap script: htmlparser2-xml.4f17eecc.bundle.min_131b355975.js",
+    "Removed Wix runtime/bootstrap script: rb_wixui.thunderbolt_SkipToContentButton_.d886e6d7.bundle.min_9db4d34a75.js",
+    "Removed Wix runtime/bootstrap script: rb_wixui.thunderbolt_Container_RectangleArea_.afbaa6d2.bundle.min_fccaf0d596.js",
+    "Removed Wix runtime/bootstrap script: rb_wixui.thunderbolt_SlideShowContainer_.128d4d0e.bundle.min_1e7f346226.js",
+    "Removed Wix runtime/bootstrap script: rb_wixui.thunderbolt_Container_CircleArea_.d6ab2787.bundle.min_f9edb8119f.js",
+    "Removed Wix runtime/bootstrap script: rb_wixui.thunderbolt_bootstrap-responsive.1bfc1371.bundle.min_9f3b78da46.js",
+    "Removed Wix runtime/bootstrap script: rb_wixui.thunderbolt_AppWidget_Classic_.2a070355.bundle.min_289e02769c.js",
+    "Removed Wix runtime/bootstrap script: rb_wixui.thunderbolt_MeshGroup_.012bc6b1.bundle.min_3dd5d94fd9.js",
+    "Removed Wix runtime/bootstrap script: rb_wixui.thunderbolt_Container_DefaultAreaSkin_.3eaf4c42.bundle.min_1b2c20aecc.js",
+    "Removed Wix runtime/bootstrap script: rb_wixui.thunderbolt_FiveGridLine_SolidLine_.76fd72e8.bundle.min_a797b27342.js",
+    "Removed Wix runtime/bootstrap script: FormViewerWidgetNoCss.bundle.min_50f58f167c.js",
+    "Removed Wix runtime/bootstrap script: ServiceListWidgetViewerWidgetNoCss.bundle.min_184d239423.js",
+    "Removed Wix runtime/bootstrap script: WixProGalleryViewerWidget.bundle.min_511f8aa09b.js",
+    "Removed Wix runtime/bootstrap script: rb_wixui.thunderbolt_ImageButton_.72c94a97.bundle.min_f9b28c3158.js",
+    "Removed Wix runtime/bootstrap script: rb_wixui.thunderbolt_bootstrap.da83ff7e.bundle.min_47471e51c3.js",
+    "Removed Wix runtime/bootstrap script: rb_wixui.thunderbolt_bootstrap-classic.d170fd1f.bundle.min_bac6266ca3.js",
+    "Removed Wix runtime/bootstrap script: rb_wixui.thunderbolt_StripColumnsContainer_Default_.119e0578.bundle.mi_28352d75af.js",
+    "Removed Wix runtime/bootstrap script: rb_wixui.thunderbolt_SlideShowSlide_.fb5fc58e.bundle.min_b624ad0c93.js",
+    "Removed Wix runtime/bootstrap script: rb_wixui.thunderbolt_LoginSocialBar_.9a9f19e5.bundle.min_fa6f118bce.js",
+    "Removed Wix runtime/bootstrap script: rb_wixui.thunderbolt_ClassicSection_.95b2f0f2.bundle.min_7ec0e5ce9c.js",
+    "Removed Wix runtime/bootstrap script: inline script",
+    "Removed Wix runtime/bootstrap script: pageHtmlEmbeds.bodyStart start",
+    "Removed Wix runtime/bootstrap script: pageHtmlEmbeds.bodyStart end",
+    "Removed Wix runtime/bootstrap script: wix-first-paint",
+    "Removed Wix runtime/bootstrap script: scroll-bar-width-calculation",
+    "Removed Wix runtime/bootstrap script: wix-skip-played-animations",
+    "Removed Wix runtime/bootstrap script: wix-fedops",
+    "Removed Wix runtime/bootstrap script: inline script",
+    "Removed Wix runtime/bootstrap script: [Wix URL removed]",
+    "Removed Wix runtime/bootstrap script: inline script",
+    "Removed Wix runtime/bootstrap script: [Wix URL removed]",
+    "Removed Wix runtime/bootstrap script: [Wix URL removed]",
+    "Removed Wix runtime/bootstrap script: [Wix URL removed]",
+    "Removed Wix runtime/bootstrap script: [Wix URL removed]",
+    "Removed Wix runtime/bootstrap script: sentryOnLoadSetup",
+    "Removed Wix runtime/bootstrap script: sentry",
+    "Removed Wix runtime/bootstrap script: inline script",
+    "Removed Wix runtime/bootstrap script: modulemetadata.es5.min_7867333024.js",
+    "Removed Wix runtime/bootstrap script: inline script",
+    "Removed Wix runtime/bootstrap script: [Wix URL removed]",
+    "Removed Wix runtime/bootstrap script: wix-viewer-model",
+    "Removed Wix runtime/bootstrap script: inline script",
+    "Removed Wix runtime/bootstrap script: used-platform-apis-data",
+    "Removed Wix runtime/bootstrap script: inline script",
+    "Removed Wix runtime/bootstrap script: [Wix URL removed]",
+    "Removed Wix runtime/bootstrap script: [Wix URL removed]",
+    "Removed Wix runtime/bootstrap script: react.production.min_a3d104366c.js",
+    "Removed Wix runtime/bootstrap script: react-dom.production.min_23f284a3a3.js",
+    "Removed Wix runtime/bootstrap script: lodash.min_4e41d11c55.js",
+    "Removed Wix runtime/bootstrap script: thunderbolt-commons.cd47ac5f.bundle.min_78132d45d2.js",
+    "Removed Wix runtime/bootstrap script: [Wix URL removed]",
+    "Removed Wix runtime/bootstrap script: main.34f6665a.bundle.min_d65dae7f0c.js",
+    "Removed Wix runtime/bootstrap script: main.renderer.b325a058.bundle.min_9f8dedd221.js",
+    "Removed Wix runtime/bootstrap script: [Wix URL removed]",
+    "Removed Wix runtime/bootstrap script: [Wix URL removed]",
+    "Removed Wix runtime/bootstrap script: browser-deprecation.bundle.es5_80b3562822.js",
+    "Removed Wix runtime/bootstrap script: inline script",
+    "Removed Wix runtime/bootstrap script: [Wix URL removed]",
+    "Removed Wix runtime/bootstrap script: [Wix URL removed]",
+    "Removed Wix runtime/bootstrap script: inline script",
+    "Removed Wix runtime/bootstrap script: inline script",
+    "Removed Wix runtime/bootstrap script: siteTags.bundle.min_a2c4f022a5.js",
+    "Removed Wix runtime/bootstrap script: pageHtmlEmbeds.bodyEnd start",
+    "Removed Wix runtime/bootstrap script: pageHtmlEmbeds.bodyEnd end",
+    "Removed Wix runtime/bootstrap script: wix-warmup-data",
+    "Converted captured Wix preview navigation to an in-page placeholder: /demone2/relationship-coach",
+    "Converted captured Wix preview navigation to an in-page placeholder: /demone2/relationship-coach",
+    "Converted captured Wix preview navigation to an in-page placeholder: /demone2/relationship-coach",
+    "Converted captured Wix preview navigation to an in-page placeholder: /demone2/relationship-coach",
+    "Converted captured Wix preview navigation to an in-page placeholder: /demone2/relationship-coach/my-story",
+    "Converted captured Wix preview navigation to an in-page placeholder: /demone2/relationship-coach/coaching",
+    "Converted captured Wix preview navigation to an in-page placeholder: /demone2/relationship-coach/pricing-plans/list",
+    "Converted captured Wix preview navigation to an in-page placeholder: /demone2/relationship-coach/podcast",
+    "Converted captured Wix preview navigation to an in-page placeholder: /demone2/relationship-coach/articles",
+    "Converted captured Wix preview navigation to an in-page placeholder: /demone2/relationship-coach",
+    "Converted captured Wix preview navigation to an in-page placeholder: /demone2/relationship-coach/members",
+    "Converted captured Wix preview navigation to an in-page placeholder: /demone2/relationship-coach/coaching",
+    "Converted captured Wix preview navigation to an in-page placeholder: /demone2/relationship-coach/booking-calendar/initial-consultation",
+    "Converted captured Wix preview navigation to an in-page placeholder: /demone2/relationship-coach/booking-calendar/initial-consultation",
+    "Converted captured Wix preview navigation to an in-page placeholder: /demone2/relationship-coach/booking-calendar/initial-consultation",
+    "Converted captured Wix preview navigation to an in-page placeholder: /demone2/relationship-coach/podcast",
+    "Removed Wix footer credit link",
+    "Removed Wix footer credit text",
+    "Removed unused copied Wix runtime asset: assets/js/accessibility.e4888b8e.chunk.min_b6db17ad78.js",
+    "Removed unused copied Wix runtime asset: assets/js/accessibilityBrowserZoom.69ca8cc9.chunk.min_f4f2cd8be8.js",
+    "Removed unused copied Wix runtime asset: assets/js/animations.5f622044.chunk.min_559e33b2e0.js",
+    "Removed unused copied Wix runtime asset: assets/js/animationsWixCodeSdk.9f05a568.chunk.min_0d059ea5d1.js",
+    "Removed unused copied Wix runtime asset: assets/js/appMonitoring.990fa541.chunk.min_f81cfaf0fd.js",
+    "Removed unused copied Wix runtime asset: assets/js/assetsLoader.6bffd761.chunk.min_75f038062a.js",
+    "Removed unused copied Wix runtime asset: assets/js/AsyncEventHandler.chunk.min_4537a0d282.js",
+    "Removed unused copied Wix runtime asset: assets/js/browser-deprecation.bundle.es5_80b3562822.js",
+    "Removed unused copied Wix runtime asset: assets/js/businessLogger.377a70ea.chunk.min_dcc6f7e695.js",
+    "Removed unused copied Wix runtime asset: assets/js/componentsLoader.037bc6b5.chunk.min_8ee9bf1d4a.js",
+    "Removed unused copied Wix runtime asset: assets/js/consentPolicy.e91bc7e5.chunk.min_3a771b903d.js",
+    "Removed unused copied Wix runtime asset: assets/js/contentReflow.3a7544b6.chunk.min_e377cb8e3c.js",
+    "Removed unused copied Wix runtime asset: assets/js/cyclicTabbing.fb257bad.chunk.min_fde3588f5e.js",
+    "Removed unused copied Wix runtime asset: assets/js/domSelectors.1772351a.chunk.min_080016be64.js",
+    "Removed unused copied Wix runtime asset: assets/js/domStore.14823c1f.chunk.min_30a82eab80.js",
+    "Removed unused copied Wix runtime asset: assets/js/dynamicPages.4ff4e6f5.chunk.min_a93807886d.js",
+    "Removed unused copied Wix runtime asset: assets/js/environment.caa69c37.chunk.min_41eb37e520.js",
+    "Removed unused copied Wix runtime asset: assets/js/environmentService.28f65978.chunk.min_11be74d283.js",
+    "Removed unused copied Wix runtime asset: assets/js/environmentWixCodeSdk.566c4d0f.chunk.min_a526118280.js",
+    "Removed unused copied Wix runtime asset: assets/js/externalServices.a9aa058b.chunk.min_a30c9d0bbc.js",
+    "Removed unused copied Wix runtime asset: assets/js/form-app-wix-ricos-viewer.chunk.min_ffb6c3c50e.js",
+    "Removed unused copied Wix runtime asset: assets/js/FormViewerWidgetNoCss.bundle.min_50f58f167c.js",
+    "Removed unused copied Wix runtime asset: assets/js/group_0.b58e75e0.chunk.min_64e279ac0b.js",
+    "Removed unused copied Wix runtime asset: assets/js/group_11.eeaeabf5.chunk.min_8c1f738e71.js",
+    "Removed unused copied Wix runtime asset: assets/js/group_14.a7e0cdf0.chunk.min_6bdaeac9ba.js",
+    "Removed unused copied Wix runtime asset: assets/js/group_2.c60c4730.chunk.min_0008867856.js",
+    "Removed unused copied Wix runtime asset: assets/js/group_20.6f996b60.chunk.min_024adf56f3.js",
+    "Removed unused copied Wix runtime asset: assets/js/group_22.b6fd6609.chunk.min_5fa3754fc9.js",
+    "Removed unused copied Wix runtime asset: assets/js/group_23.7ae110ca.chunk.min_1c6c9b9aaa.js",
+    "Removed unused copied Wix runtime asset: assets/js/group_24.5677d2a9.chunk.min_5ef39743f4.js",
+    "Removed unused copied Wix runtime asset: assets/js/group_27.c4c38b3c.chunk.min_9df6e95525.js",
+    "Removed unused copied Wix runtime asset: assets/js/group_28.517aa7aa.chunk.min_9b44f14b44.js",
+    "Removed unused copied Wix runtime asset: assets/js/group_3.dd33e4a3.chunk.min_14b752ab76.js",
+    "Removed unused copied Wix runtime asset: assets/js/group_30.3f1bd6a0.chunk.min_ea934e8e3c.js",
+    "Removed unused copied Wix runtime asset: assets/js/group_32.87a52be9.chunk.min_aeacd11ca4.js",
+    "Removed unused copied Wix runtime asset: assets/js/group_38.2fb20b49.chunk.min_551b720af0.js",
+    "Removed unused copied Wix runtime asset: assets/js/group_4.e486b681.chunk.min_c5ad2bd4dd.js",
+    "Removed unused copied Wix runtime asset: assets/js/group_45.c1314395.chunk.min_65fd7fb1b2.js",
+    "Removed unused copied Wix runtime asset: assets/js/group_5.79994512.chunk.min_4dfd503c22.js",
+    "Removed unused copied Wix runtime asset: assets/js/group_6.5f7b0030.chunk.min_e973b170a3.js",
+    "Removed unused copied Wix runtime asset: assets/js/group_7.9cd3d937.chunk.min_a01ff5e23d.js",
+    "Removed unused copied Wix runtime asset: assets/js/group_8.551b56fc.chunk.min_3816f3a49e.js",
+    "Removed unused copied Wix runtime asset: assets/js/group_9.f1ec97ea.chunk.min_a4169fe84a.js",
+    "Removed unused copied Wix runtime asset: assets/js/htmlparser2-xml.4f17eecc.bundle.min_131b355975.js",
+    "Removed unused copied Wix runtime asset: assets/js/imagePlaceholder.cfcbba70.chunk.min_512459d8e5.js",
+    "Removed unused copied Wix runtime asset: assets/js/lodash.min_4e41d11c55.js",
+    "Removed unused copied Wix runtime asset: assets/js/main.34f6665a.bundle.min_d65dae7f0c.js",
+    "Removed unused copied Wix runtime asset: assets/js/main.renderer.b325a058.bundle.min_9f8dedd221.js",
+    "Removed unused copied Wix runtime asset: assets/js/mobileFullScreen.26016b15.chunk.min_9da32bb17b.js",
+    "Removed unused copied Wix runtime asset: assets/js/modulemetadata.es5.min_7867333024.js",
+    "Removed unused copied Wix runtime asset: assets/js/motion.c8984600.chunk.min_7d2a0efac2.js",
+    "Removed unused copied Wix runtime asset: assets/js/mpaNavigation.bd7e02b4.chunk.min_73339b8202.js",
+    "Removed unused copied Wix runtime asset: assets/js/navigation.fd6a4352.chunk.min_702f06d64c.js",
+    "Removed unused copied Wix runtime asset: assets/js/ooi.35dd0965.chunk.min_270c03f831.js",
+    "Removed unused copied Wix runtime asset: assets/js/pageAnchors.c566b640.chunk.min_476dd84a46.js",
+    "Removed unused copied Wix runtime asset: assets/js/panorama.a27650b3.chunk.min_9dd4c44bf0.js",
+    "Removed unused copied Wix runtime asset: assets/js/platform.a007cd91.chunk.min_550c4637c9.js",
+    "Removed unused copied Wix runtime asset: assets/js/platformPubsub.d41c28b7.chunk.min_7b370f03f4.js",
+    "Removed unused copied Wix runtime asset: assets/js/popups.601233da.chunk.min_5c4573a597.js",
+    "Removed unused copied Wix runtime asset: assets/js/protectedPages.686e2c1a.chunk.min_d1c3c190e4.js",
+    "Removed unused copied Wix runtime asset: assets/js/rb_wixui.thunderbolt_AppWidget_Classic_.2a070355.bundle.min_289e02769c.js",
+    "Removed unused copied Wix runtime asset: assets/js/rb_wixui.thunderbolt_bootstrap-classic.d170fd1f.bundle.min_bac6266ca3.js",
+    "Removed unused copied Wix runtime asset: assets/js/rb_wixui.thunderbolt_bootstrap-responsive.1bfc1371.bundle.min_9f3b78da46.js",
+    "Removed unused copied Wix runtime asset: assets/js/rb_wixui.thunderbolt_bootstrap.da83ff7e.bundle.min_47471e51c3.js",
+    "Removed unused copied Wix runtime asset: assets/js/rb_wixui.thunderbolt_ClassicSection_.95b2f0f2.bundle.min_7ec0e5ce9c.js",
+    "Removed unused copied Wix runtime asset: assets/js/rb_wixui.thunderbolt_Container_CircleArea_.d6ab2787.bundle.min_f9edb8119f.js",
+    "Removed unused copied Wix runtime asset: assets/js/rb_wixui.thunderbolt_Container_DefaultAreaSkin_.3eaf4c42.bundle.min_1b2c20aecc.js",
+    "Removed unused copied Wix runtime asset: assets/js/rb_wixui.thunderbolt_Container_RectangleArea_.afbaa6d2.bundle.min_fccaf0d596.js",
+    "Removed unused copied Wix runtime asset: assets/js/rb_wixui.thunderbolt_FiveGridLine_SolidLine_.76fd72e8.bundle.min_a797b27342.js",
+    "Removed unused copied Wix runtime asset: assets/js/rb_wixui.thunderbolt_ImageButton_.72c94a97.bundle.min_f9b28c3158.js",
+    "Removed unused copied Wix runtime asset: assets/js/rb_wixui.thunderbolt_LoginSocialBar_.9a9f19e5.bundle.min_fa6f118bce.js",
+    "Removed unused copied Wix runtime asset: assets/js/rb_wixui.thunderbolt_MeshGroup_.012bc6b1.bundle.min_3dd5d94fd9.js",
+    "Removed unused copied Wix runtime asset: assets/js/rb_wixui.thunderbolt_SkipToContentButton_.d886e6d7.bundle.min_9db4d34a75.js",
+    "Removed unused copied Wix runtime asset: assets/js/rb_wixui.thunderbolt_SlideShowContainer_.128d4d0e.bundle.min_1e7f346226.js",
+    "Removed unused copied Wix runtime asset: assets/js/rb_wixui.thunderbolt_SlideShowSlide_.fb5fc58e.bundle.min_b624ad0c93.js",
+    "Removed unused copied Wix runtime asset: assets/js/rb_wixui.thunderbolt_StripColumnsContainer_Default_.119e0578.bundle.mi_28352d75af.js",
+    "Removed unused copied Wix runtime asset: assets/js/react-dom.production.min_23f284a3a3.js",
+    "Removed unused copied Wix runtime asset: assets/js/react.production.min_a3d104366c.js",
+    "Removed unused copied Wix runtime asset: assets/js/renderer.e30669d5.chunk.min_10a199c73f.js",
+    "Removed unused copied Wix runtime asset: assets/js/reporter-api.9a0bba7d.chunk.min_6f96402fa4.js",
+    "Removed unused copied Wix runtime asset: assets/js/router.7550ec16.chunk.min_3cc4078a3d.js",
+    "Removed unused copied Wix runtime asset: assets/js/routerFetch.0667279b.chunk.min_0601363c48.js",
+    "Removed unused copied Wix runtime asset: assets/js/scrollToAnchor.a3fa83b7.chunk.min_6ee9df3b9b.js",
+    "Removed unused copied Wix runtime asset: assets/js/seo-api.1430007a.chunk.min_cf34c81244.js",
+    "Removed unused copied Wix runtime asset: assets/js/ServiceListWidgetViewerWidgetNoCss.bundle.min_184d239423.js",
+    "Removed unused copied Wix runtime asset: assets/js/siteMembers.b1553e13.chunk.min_a0f7d2cb76.js",
+    "Removed unused copied Wix runtime asset: assets/js/siteMembersWixCodeSdk.143b2c98.chunk.min_7b4bfc8967.js",
+    "Removed unused copied Wix runtime asset: assets/js/siteScrollBlocker.0d237009.chunk.min_8ebe88c6dc.js",
+    "Removed unused copied Wix runtime asset: assets/js/siteTags.bundle.min_a2c4f022a5.js",
+    "Removed unused copied Wix runtime asset: assets/js/speculationRules.59e08197.chunk.min_3d37f792f5.js",
+    "Removed unused copied Wix runtime asset: assets/js/ssrCache.f7fb72e6.chunk.min_9f70493d63.js",
+    "Removed unused copied Wix runtime asset: assets/js/stores.271cca5b.chunk.min_f25e93eeb4.js",
+    "Removed unused copied Wix runtime asset: assets/js/svgLoader.0b99cad8.chunk.min_59df654b57.js",
+    "Removed unused copied Wix runtime asset: assets/js/thunderbolt-commons.cd47ac5f.bundle.min_78132d45d2.js",
+    "Removed unused copied Wix runtime asset: assets/js/thunderbolt-components-registry.bbe0388d.chunk.min_1f9d512658.js",
+    "Removed unused copied Wix runtime asset: assets/js/tpa.727b7948.chunk.min_f7478563b8.js",
+    "Removed unused copied Wix runtime asset: assets/js/TPABaseComponent.fa382800.chunk.min_c7465491b1.js",
+    "Removed unused copied Wix runtime asset: assets/js/triggersAndReactions.9eecfa2f.chunk.min_cdd63c63f2.js",
+    "Removed unused copied Wix runtime asset: assets/js/tslib.inline.0a404b36.chunk.min_484d09994c.js",
+    "Removed unused copied Wix runtime asset: assets/js/usedPlatformApis.2fac58dc.chunk.min_f79819c44e.js",
+    "Removed unused copied Wix runtime asset: assets/js/warmupData.8df801a8.chunk.min_844a47dee8.js",
+    "Removed unused copied Wix runtime asset: assets/js/windowScroll.94e57fc8.chunk.min_b1199f81a0.js",
+    "Removed unused copied Wix runtime asset: assets/js/wix-image-kit.d06a1127.bundle.min_f9a78792f2.js",
+    "Removed unused copied Wix runtime asset: assets/js/wix-ricos-sdk-client.chunk.min_27a827721c.js",
+    "Removed unused copied Wix runtime asset: assets/js/WixProGalleryViewerWidget.bundle.min_511f8aa09b.js",
+    "Removed source-map locator comment: assets/js/1693.chunk.min_7e15926d4a.js",
+    "Removed source-map locator comment: assets/js/680.chunk.min_fb4b20f943.js",
+    "Removed source-map locator comment: assets/js/focus-within-polyfill_7429be62a7.js",
+    "Removed source-map locator comment: assets/js/form-app-header.chunk.min_432b70fb22.js",
+    "Removed source-map locator comment: assets/js/form-app-text-area.chunk.min_d2e288198c.js",
+    "Removed source-map locator comment: assets/js/minified_cc5dbdbdf6.js",
+    "Removed stale crawler-stage offline-validation.txt; final validation is written after cleanup"
+  ],
+  "llm_requests": [],
+  "llm_edits": [],
+  "rejected_edits": [],
+  "notes": [
+    "Removed source URL field from metadata.json: template_url",
+    "Removed source URL field from metadata.json: preview_url",
+    "Removed source URL field from metadata.json: final_url"
+  ],
+  "dependencies_to_review": [],
+  "remaining_external_urls": [
+    {
+      "file": "index.html",
+      "url": "http://www.w3.org/2000/svg%27",
+      "classification": "external_or_navigation"
+    },
+    {
+      "file": "index.html",
+      "url": "http://www.w3.org/2000/svg\\",
+      "classification": "external_or_navigation"
+    },
+    {
+      "file": "index.html",
+      "url": "https://schema.org/",
+      "classification": "external_or_navigation"
+    },
+    {
+      "file": "index.html",
+      "url": "[Wix URL removed]",
+      "classification": "external_or_navigation"
+    },
+    {
+      "file": "index.html",
+      "url": "http://www.w3.org/2000/svg",
+      "classification": "external_or_navigation"
+    },
+    {
+      "file": "index.html",
+      "url": "https://www.facebook.com/wix",
+      "classification": "external_or_navigation"
+    },
+    {
+      "file": "index.html",
+      "url": "https://www.instagram.com/wix",
+      "classification": "external_or_navigation"
+    },
+    {
+      "file": "index.html",
+      "url": "https://www.twitter.com/wix",
+      "classification": "external_or_navigation"
+    },
+    {
+      "file": "index.html",
+      "url": "https://www.youtube.com/user/Wix",
+      "classification": "external_or_navigation"
+    },
+    {
+      "file": "index.html",
+      "url": "https://open.spotify.com/genre/podcasts-page",
+      "classification": "external_or_navigation"
+    },
+    {
+      "file": "index.html",
+      "url": "https://www.apple.com/itunes/podcasts/",
+      "classification": "external_or_navigation"
+    },
+    {
+      "file": "index.html",
+      "url": "https://podcasts.google.com/about",
+      "classification": "external_or_navigation"
+    },
+    {
+      "file": "index.html",
+      "url": "https://www.stitcher.com",
+      "classification": "external_or_navigation"
+    },
+    {
+      "file": "assets/js/minified_cc5dbdbdf6.js",
+      "url": "https://github.com/zloirock/core-js",
+      "classification": "external_or_navigation"
+    },
+    {
+      "file": "assets/js/minified_cc5dbdbdf6.js",
+      "url": "http://rock.mit-license.org",
+      "classification": "external_or_navigation"
+    },
+    {
+      "file": "assets/js/minified_cc5dbdbdf6.js",
+      "url": "http://a",
+      "classification": "external_or_navigation"
+    },
+    {
+      "file": "assets/js/minified_cc5dbdbdf6.js",
+      "url": "http://a/c%20d?e=1",
+      "classification": "external_or_navigation"
+    },
+    {
+      "file": "assets/js/minified_cc5dbdbdf6.js",
+      "url": "https://a@b",
+      "classification": "external_or_navigation"
+    },
+    {
+      "file": "assets/js/minified_cc5dbdbdf6.js",
+      "url": "http://тест",
+      "classification": "external_or_navigation"
+    },
+    {
+      "file": "assets/js/minified_cc5dbdbdf6.js",
+      "url": "http://a#б",
+      "classification": "external_or_navigation"
+    },
+    {
+      "file": "assets/js/requirejs.min_55885c2319.js",
+      "url": "https://requirejs.org/docs/errors.html#",
+      "classification": "external_or_navigation"
+    },
+    {
+      "file": "assets/js/requirejs.min_55885c2319.js",
+      "url": "http://www.w3.org/1999/xhtml",
+      "classification": "external_or_navigation"
+    }
+  ],
+  "unresolved_active_css_js_dependencies": [],
+  "crawler_asset_failures": [
+    {
+      "url": "[Wix URL removed]",
+      "context": "css",
+      "reason": "not retrievable from browser cache or HTTP"
+    }
+  ],
+  "llm_review_skipped_reason": "No active external CSS/JavaScript imports remain after deterministic localization; navigation links and inert URL strings are not downloaded or rewritten as assets.",
+  "changes_applied": 290,
+  "status": "cleaned_with_review_items",
+  "visible_text_chars_before_cleanup": 924,
+  "visible_text_chars_after_cleanup": 897,
+  "visible_text_retention_percent": 97.08,
+  "validation": {
+    "html_page_files": 1,
+    "single_page_structure": true,
+    "iframe_tags": 0,
+    "wix_host_references_in_site_files": 1,
+    "missing_local_assets": [],
+    "responsive_viewport_present": true,
+    "visual_browser_test_performed": false,
+    "visual_browser_test_note": "Static checks only; compare in a browser at desktop and mobile widths before treating the result as pixel-perfect.",
+    "status": "REVIEW"
+  }
+}

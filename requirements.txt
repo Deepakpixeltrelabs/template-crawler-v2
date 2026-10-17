@@ -1,0 +1,5 @@
+flask>=3.0
+selenium>=4.20
+webdriver-manager>=4.0
+beautifulsoup4>=4.12
+requests>=2.31
